@@ -1,0 +1,17 @@
+---
+layout: post
+title: Hello world!
+date: 2015-12-07 11:56:16.000000000 -05:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags: []
+meta: {}
+author:
+permalink: "/2015/12/07/hello-world/"
+---
+Welcome to [Technion Computer Science Faculty WordPress system](http://cswp.cs.technion.ac.il/). This is your first post. Edit or delete it, then start blogging!
+

@@ -1,0 +1,61 @@
+---
+layout: page
+title: Useful ~/.bashrc functions
+date: 2019-12-22 08:58:53.000000000 -05:00
+type: page
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags: []
+meta:
+  _edit_last: '86'
+  _expiration-date-status: saved
+author:
+  login: urialon
+  email: urialon@cs.technion.ac.il
+  display_name: urialon
+  first_name: ''
+  last_name: ''
+permalink: "/useful-bashrc-functions/"
+---
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># "cmd" prints the command line that was used to execute a specified running process.
+# Usage: 
+#     cmd PID
+cmd() { xargs -0 &lt; /proc/$1/cmdline }
+
+# "avg", "std" and "max" can be used at the end of a bash pipeline to print the average and max of the results.
+# Usage:
+# Print the average and standard deviation of the number of words in every line:
+#     cat myfile.txt | awk '{print NF}' | avg<br />#     cat myfile.txt | awk '{print NF}' | std
+# Print the longest word in a file:
+#     cat myfile.txt | tr ' ' '\n' | awk '{print length}' | max
+alias avg="awk '{ total += \$1; count++ } END { print total/count }'"<br />alias std="awk '{sum+=\$1; sumsq+=\$1*\$1}END{print sqrt(sumsq/NR - (sum/NR)**2)}'"
+alias max="awk 'BEGIN{a=0}{if (\$1&gt;0+a) a=\$1 } END{print a}'"
+
+# "cpy" performs python computations in the shell, without entering and existing a python interpreter.
+# Usage:
+#     cpy 1234 / 5678
+#     cpy "len('hello world'.split())"
+cpy() { python3 -c "print($*)"; }
+
+# "bpy" allows to use python expressions as part of a bash pipeline, when performing the same thing in pure-bash is too complicated.
+# It assumes that the variable "line" contains a line in the incoming stream.
+# Usage:
+# Count the occurrences of a character in every line:
+#     cat myfile.txt | bpy "line.count('a')"
+# Reverse every line in a file:
+#     cat myfile.txt | bpy "line[::-1]"
+# Reverse the order of characters in every word, without changing the order of words:
+#     cat myfile.txt | bpy "' '.join(word[::-1] for word in line.split())"
+bpy() {
+python3 -c '
+import sys
+for line in sys.stdin:
+  line = line.rstrip("\n")
+  print(eval(sys.argv[1]))
+' "$@"
+}</code></pre>
+<p><!-- /wp:code --></p>
