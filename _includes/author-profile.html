@@ -22,9 +22,11 @@
   <div class="author__urls-wrapper">
     <!--<button class="btn btn&#45;&#45;inverse">Follow</button>-->
     <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
+      <li>{{ author.location }}</li>
+      <li><a href="mailto:{{ author.email }}">{{ author.email }}</a></li>
+      <!--{% if author.location %}-->
+        <!--<li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>-->
+      <!--{% endif %}-->
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -109,11 +111,11 @@
     </ul>
     <div class="social-icons">
       {% if author.googlescholar %}
-        <a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><img src="images/icons8-google-scholar-192.png" style="height: 2.5em;width:auto;margin-top:0.2em" class="fas fa-lg"></a>
+        <a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><img src="images/icons8-google-scholar-192.png" style="height: 5.5em;width:auto;padding-top:0em;padding-bottom:1.8em;" class="fas"></a>
       {% endif %}
-      {% if author.email %}
-        <a href="mailto:{{ author.email }}"><i class="fas fa-3x fa-envelope" aria-hidden="true"></i></a>
-      {% endif %}
+      <!--{% if author.email %}-->
+        <!--<a href="mailto:{{ author.email }}"><i class="fas fa-3x fa-envelope" aria-hidden="true"></i></a>-->
+      <!--{% endif %}-->
       {% if author.twitter %}
         <a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-3x fa-twitter-square" aria-hidden="true"></i></a>
       {% endif %}
