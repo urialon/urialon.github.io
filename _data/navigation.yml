@@ -1,4 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: "#publications"
+
+  - title: "Zoom"
+    url: https://technion.zoom.us/j/3739170675
