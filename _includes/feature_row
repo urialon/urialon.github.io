@@ -34,7 +34,9 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <a href="{{ f_url }}"  target="_blank" rel="noopener noreferrer">
+              <h2 class="archive__item-title">{{ f.title }}</h2>
+            </a>
           {% endif %}
 
           {% if f.excerpt %}
@@ -44,11 +46,11 @@
           {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }} target="_blank" rel="noopener noreferrer"</a></p>
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}" target="_blank" rel="noopener noreferrer">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
 
           {% if f.url2 %}
-            <p><a href="{{ f.url2 }}" class="btn {{ f.btn_class }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }} target="_blank" rel="noopener noreferrer"</a></p>
+            <p><a href="{{ f.url2 }}" class="btn {{ f.btn_class }}" target="_blank" rel="noopener noreferrer">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
 
           {% if f.url3 %}
