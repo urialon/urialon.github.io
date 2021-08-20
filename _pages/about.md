@@ -7,21 +7,31 @@ redirect_from:
   - /about/
   - /about.html
  
-feature_row1-1:
+feature_row1:
   - image_path: c2v_demo.png
-    alt: "Clusterisation results based on Conversion Rates"
-    title: "Target Audience for Starbucks Rewards App"
-    text: "In this project, I analyzed the customer behavior in the Starbucks Rewards Mobile App. After signing up for the app, customers receive promotions every few days. The task was to identify which customers are influenced by promotional offers the most and what types of offers to send them in order to maximize the revenue. I used PCA and K-Means clustering to arrive at 3 customer segments (Disinterested, BOGO, Discount) based on Average Conversion Rates and explored their demographic profiles and shopping habits."
-    url: "https://github.com/k-bosko/Starbucks_rewards"
-    btn_label: "Code + Presentation"
+    alt: "http://www.code2vec.org"
+    title: "code2vec"
+    url: "https://www.code2vec.org"
+    btn_label: "Demo"
     btn_class: "btn--primary"
-    url2: "/Starbucks-Rewards-Program/"
-    btn_label2: "Technical Report"
+    url2: "https://github.com/tech-srl/code2vec"
+    btn_label2: "Code"
     btn_class: "btn--primary"
     tags: 
-        - Marketing
-        - Segmentation
-        - k-means clustering
+        - code2vec
+        
+feature_row2:
+  - image_path: c2v_demo.png
+    alt: "http://www.code2seq.org"
+    title: "code2vec"
+    url: "https://www.code2seq.org"
+    btn_label: "Demo"
+    btn_class: "btn--primary"
+    url2: "https://github.com/tech-srl/code2seq"
+    btn_label2: "Code"
+    btn_class: "btn--primary"
+    tags: 
+        - code2vec
 ---
 
 I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](http://www.phontron.com/), and a member of [NeuLab](http://www.cs.cmu.edu/~neulab/).
@@ -41,5 +51,8 @@ I am happily married to Lee and father of Gur 🙂
 ---
 # Demos
 
-{% include feature_row id="feature_row1-1" type="left" %}
-<a name="Marketing-Analytics"></a> 
+{% include feature_row id="feature_row1" type="left" %}
+<a name="code2vec"></a> 
+
+{% include feature_row id="feature_row1" type="left" %}
+<a name="code2seq"></a> 
