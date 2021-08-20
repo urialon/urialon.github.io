@@ -20,13 +20,15 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src=
-              {% if f.image_path contains "://" %}
-                "{{ f.image_path }}"
-              {% else %}
-                "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
-              {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <a href="{{ f_url }}"  target="_blank" rel="noopener noreferrer">
+                <img src=
+                  {% if f.image_path contains "://" %}
+                    "{{ f.image_path }}"
+                  {% else %}
+                    "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+                  {% endif %}
+                alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
           </div>
         {% endif %}
 
@@ -42,15 +44,15 @@
           {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }} target="_blank" rel="noopener noreferrer"</a></p>
           {% endif %}
 
           {% if f.url2 %}
-            <p><a href="{{ f.url2 }}" class="btn {{ f.btn_class }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f.url2 }}" class="btn {{ f.btn_class }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }} target="_blank" rel="noopener noreferrer"</a></p>
           {% endif %}
 
           {% if f.url3 %}
-            <p><a href="{{ f.url3 }}" class="btn {{ f.btn_class }}">{{ f.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p><a href="{{ f.url3 }}" class="btn {{ f.btn_class }}">{{ f.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }} target="_blank" rel="noopener noreferrer"</a></p>
           {% endif %}
         </div>
       </div>
