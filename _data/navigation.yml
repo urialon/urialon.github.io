@@ -3,5 +3,8 @@ main:
   - title: "Publications"
     url: "#publications"
 
+  - title: "Demos"
+    url: "#demos"
+
   - title: "Zoom"
     url: https://technion.zoom.us/j/3739170675
