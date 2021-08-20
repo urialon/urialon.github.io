@@ -21,9 +21,9 @@ feature_row1:
         - code2vec
         
 feature_row2:
-  - image_path: c2v_demo.png
+  - image_path: c2s_demo.png
     alt: "http://www.code2seq.org"
-    title: "code2vec"
+    title: "code2seq"
     url: "https://www.code2seq.org"
     btn_label: "Demo"
     btn_class: "btn--primary"
@@ -31,7 +31,7 @@ feature_row2:
     btn_label2: "Code"
     btn_class: "btn--primary"
     tags: 
-        - code2vec
+        - code2seq
 ---
 
 I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](http://www.phontron.com/), and a member of [NeuLab](http://www.cs.cmu.edu/~neulab/).
@@ -54,5 +54,5 @@ I am happily married to Lee and father of Gur 🙂
 {% include feature_row id="feature_row1" type="left" %}
 <a name="code2vec"></a> 
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 <a name="code2seq"></a> 
