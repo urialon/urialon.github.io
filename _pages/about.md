@@ -63,7 +63,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ---
-# Publications (see also [Google Scholar](https://scholar.google.co.il/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao){:target="_blank"}) <a name="publications"></a>
+# Publications <img src="icons8-google-scholar-192.png"></img> (see also [Google Scholar](https://scholar.google.co.il/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao){:target="_blank"}) <a name="publications"></a>
 
 ---
 # Demos
