@@ -163,7 +163,7 @@
 }
 
 .feature__item {
-  margin-bottom: 2em;
+  margin-bottom: 4em;
   font-size: 1.25rem;
 
   @include breakpoint($small) {
@@ -192,7 +192,7 @@
       .archive__item-body {
         @include span(4 of 12 last);
         @include prefix(0.1 of 12);
-        @include suffix(1 of 12);
+        @include suffix(3 of 12);
       }
     }
   }
