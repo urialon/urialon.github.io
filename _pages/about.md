@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
  
 feature_row1-1:
-  - image_path: UriAlon.jpg
+  - image_path: c2v_demo.png
     alt: "Clusterisation results based on Conversion Rates"
     title: "Target Audience for Starbucks Rewards App"
     text: "In this project, I analyzed the customer behavior in the Starbucks Rewards Mobile App. After signing up for the app, customers receive promotions every few days. The task was to identify which customers are influenced by promotional offers the most and what types of offers to send them in order to maximize the revenue. I used PCA and K-Means clustering to arrive at 3 customer segments (Disinterested, BOGO, Discount) based on Average Conversion Rates and explored their demographic profiles and shopping habits."
