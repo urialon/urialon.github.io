@@ -34,11 +34,11 @@ feature_row2:
         - code2seq
 ---
 
-I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](http://www.phontron.com/), and a member of [NeuLab](http://www.cs.cmu.edu/~neulab/).
+I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](http://www.phontron.com/){:target="_blank"}, and a member of [NeuLab](http://www.cs.cmu.edu/~neulab/){:target="_blank"}.
 
 My research focuses on machine learning and deep learning approaches for modeling, predicting, improving, and generating source code, a field we call Programming Language Processing.
 
-I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Eran Yahav](http://www.cs.technion.ac.il/~yahave/).
+I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Eran Yahav](http://www.cs.technion.ac.il/~yahave/){:target="_blank"}.
 In addition, I hold a B.A. in Humanities.
 
 Previously, I served 7 years as an officer onboard a missile ship in the Israeli Navy. Later, I completed my BSc summa cum laude at the Computer Science Department at the Technion, as an alumnus of The Rothschild-Technion Scholars Program for Excellence. Between 2014-2016 I worked at Microsoft R&D center in Haifa, developing data security services for the cloud. Between June-September of 2018, I interned at Google New-York, researching neural models for speech recognition.
