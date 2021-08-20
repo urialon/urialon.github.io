@@ -171,8 +171,8 @@ body:hover .visually-hidden button {
 .icon {
   display: inline-block;
   fill: currentColor;
-  width: 1em;
-  height: 1.1em;
+  width: 2em;
+  height: 2.2em;
   line-height: 1;
   position: relative;
   top: -0.1em;
@@ -182,7 +182,7 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  .fa {
+  .fa, .fas {
     color: #000;
   }
 
@@ -261,6 +261,16 @@ body:hover .visually-hidden button {
   .fa-twitter,
   .fa-twitter-square {
     color: $twitter-color;
+  }
+
+  .fa-graduation-cap,
+  .fa-graduation-cap-square {
+    color: #000000;
+  }
+
+  .fa-envelope,
+  .fa-envelope-square {
+    color: #000000;
   }
 
   .fa-vimeo,

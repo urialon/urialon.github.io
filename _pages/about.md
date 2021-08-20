@@ -10,7 +10,7 @@ redirect_from:
 feature_row1:
   - image_path: c2v_demo.png
     alt: "http://www.code2vec.org"
-    title: "code2vec"
+    title: "code2vec (POPL'2019)"
     url: "https://www.code2vec.org"
     btn_label: "Demo"
     btn_class: "btn--primary"
@@ -23,7 +23,7 @@ feature_row1:
 feature_row2:
   - image_path: c2s_demo.png
     alt: "http://www.code2seq.org"
-    title: "code2seq"
+    title: "code2seq (ICLR'2019)"
     url: "https://www.code2seq.org"
     btn_label: "Demo"
     btn_class: "btn--primary"
@@ -32,6 +32,19 @@ feature_row2:
     btn_class: "btn--primary"
     tags: 
         - code2seq
+
+feature_row3:
+  - image_path: slm_demo.png
+    alt: "http://www.AnyCodeGen.org"
+    title: "AnyCodeGen (ICML'2020)"
+    url: "https://www.AnyCodeGen.org"
+    btn_label: "Demo"
+    btn_class: "btn--primary"
+    url2: "https://github.com/tech-srl/slm-code-generation"
+    btn_label2: "Code"
+    btn_class: "btn--primary"
+    tags: 
+        - AnyCodeGen
 ---
 
 I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](http://www.phontron.com/){:target="_blank"}, and a member of [NeuLab](http://www.cs.cmu.edu/~neulab/){:target="_blank"}.
@@ -56,3 +69,6 @@ I am happily married to Lee and father of Gur 🙂
 
 {% include feature_row id="feature_row2" type="left" %}
 <a name="code2seq"></a> 
+
+{% include feature_row id="feature_row3" type="left" %}
+<a name="AnyCodeGen"></a> 
