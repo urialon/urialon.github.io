@@ -65,6 +65,22 @@ I am happily married to Lee and father of Gur 🙂
 ---
 # Publications <a href="https://scholar.google.co.il/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
 
+## Preprints
+* **How Attentive are Graph Attention Networks?**
+    * Shaked Brody, **Uri Alon**, Eran Yahav
+    * arXiv (2021) [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"}[[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"}[[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
+
+* **Single-Node Attack for Fooling Graph Neural Networks**
+    * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
+    * arXiv (2020) [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"}[[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"}[[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
+
+## Accepted Papers
+* **On the Bottleneck of Graph Neural Networks and its Practical Implications**
+    * **Uri Alon**, Eran Yahav
+    * Appeared in **_ICLR'2021_**
+    * [[PDF]](https://arxiv.org/pdf/2006.05205){:target="_blank"}[[Poster]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/03/bottleneck_poster.pdf){:target="_blank"}[[Slides]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2020/07/bottleneck_slides.pdf){:target="_blank"}[**[Video]**](https://youtu.be/vrLsEwzZTCQ){:target="_blank"}[[Code]](https://github.com/tech-srl/bottleneck/){:target="_blank"}[[BibTex]](https://pastebin.pl/view/raw/f940b575){:target="_blank"}
+
+
 ---
 # Demos
 
