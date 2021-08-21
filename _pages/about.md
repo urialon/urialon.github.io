@@ -9,7 +9,7 @@ redirect_from:
  
 feature_row1:
   - image_path: c2v_demo.png
-    alt: "http://www.code2vec.org"
+    alt: "https://www.code2vec.org"
     title: "code2vec (POPL'2019)"
     url: "https://www.code2vec.org"
     btn_label: "Demo"
@@ -22,7 +22,7 @@ feature_row1:
         
 feature_row2:
   - image_path: c2s_demo.png
-    alt: "http://www.code2seq.org"
+    alt: "https://www.code2seq.org"
     title: "code2seq (ICLR'2019)"
     url: "https://www.code2seq.org"
     btn_label: "Demo"
@@ -35,7 +35,7 @@ feature_row2:
 
 feature_row3:
   - image_path: slm_demo.png
-    alt: "http://www.AnyCodeGen.org"
+    alt: "https://www.AnyCodeGen.org"
     title: "AnyCodeGen (ICML'2020)"
     url: "https://www.AnyCodeGen.org"
     btn_label: "Demo"
@@ -47,11 +47,11 @@ feature_row3:
         - AnyCodeGen
 ---
 
-I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](http://www.phontron.com/){:target="_blank"}, and a member of [NeuLab](http://www.cs.cmu.edu/~neulab/){:target="_blank"}.
+I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"}, and a member of [NeuLab](https://www.cs.cmu.edu/~neulab/){:target="_blank"}.
 
 My research focuses on machine learning and deep learning approaches for modeling, predicting, improving, and generating source code, a field we call Programming Language Processing.
 
-I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Eran Yahav](http://www.cs.technion.ac.il/~yahave/){:target="_blank"}.
+I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}.
 
 Previously, I served 7 years as an officer onboard a missile ship in the Israeli Navy. 
 Later, I completed my BSc _summa cum laude_ at the Computer Science Department at the Technion, as an alumnus of The Rothschild-Technion Scholars Program for Excellence. 
@@ -116,7 +116,7 @@ I am happily married to Lee and father of Gur 🙂
 * **code2vec: Learning Distributed Representations of Code**
     * **Uri Alon**, Meital Zilberstein, Omer Levy, Eran Yahav
     * Appeared in **_POPL’2019_**
-    * [**ACM SIGPLAN Research Highlight**](http://www.sigplan.org/Highlights/Papers/){:target="_blank"}
+    * [**ACM SIGPLAN Research Highlight**](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}
     * Online demo: [https://www.code2vec.org](https://www.code2vec.org){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/1803.09473){:target="_blank"} [[Slides]](files/code2vec_popl19_slides.pdf){:target="_blank"} [[Video]](https://t.co/fjz2oVoDus){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[Code]](https://github.com/tech-srl/code2vec){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ddAkvska){:target="_blank"}
 
@@ -151,7 +151,7 @@ I am happily married to Lee and father of Gur 🙂
 # Awards
 * 2021-2022 – Rothschild Post-Doctoral Fellowship
 * 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
-* 2020 – [ACM SIGPLAN Research Highlight](http://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
+* 2020 – [ACM SIGPLAN Research Highlight](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
 * 2019 – Jacobs Excellence Scholarship
 * 2019 – Faculty Funding Excellence Scholarship
 * 2018 – Faculty Funding Excellence Scholarship
