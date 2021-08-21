@@ -85,6 +85,22 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in **_OOPSLA’2020_**
     * [[PDF]](https://arxiv.org/pdf/2005.13209.pdf){:target="_blank"} [[Video]](https://youtu.be/lOdXDxaUkII){:target="_blank"} [[Code]](https://github.com/tech-srl/adversarial-examples){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3c8512de){:target="_blank"}
 
+* **Adversarial Examples for Models of Code**
+    * Noam Yefet, **Uri Alon**, Eran Yahav
+    * Appeared in **_OOPSLA’2020_**
+    * [[PDF]](https://arxiv.org/pdf/1910.07517.pdf){:target="_blank"} [[Video]](https://youtu.be/lOdXDxaUkII){:target="_blank"} [[Code]](https://github.com/tech-srl/adversarial-examples){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3c8512de){:target="_blank"}
+
+* **Neural Reverse Engineering of Stripped Binaries using Augmented Control Flow Graphs**
+    * Yaniv David, Uri Alon, Eran Yahav
+    * Appeared in **_OOPSLA’2020_**
+    * [[PDF]](https://arxiv.org/pdf/1902.09122){:target="_blank"} [[Video]](https://youtu.be/CnCYd9QuiJ0){:target="_blank"} [[Code]](https://github.com/tech-srl/Nero){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/d8794bd3){:target="_blank"}
+
+* **Structural Language Models of Code**
+    * **Uri Alon**, Roy Sadaka, Omer Levy, Eran Yahav
+    * Appeared in **_ICML’2020_**
+    * Online demo: [https://www.AnyCodeGen.org](https://www.AnyCodeGen.org){:target="_blank"}
+    * [[PDF]](){:target="_blank"} [[Video]](){:target="_blank"} [[Code]](){:target="_blank"} [[BibTex]](){:target="_blank"}
+
 ---
 # Demos
 
