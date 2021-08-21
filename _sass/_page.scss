@@ -24,9 +24,9 @@
   }
 
   .page__inner-wrap {
-    //@include full();
+    @include full();
 
-    //.page__content,
+    .page__content,
     .page__meta,
     .page__share {
       @include full();
@@ -57,13 +57,13 @@
   }
 
   p, li, dl {
-    font-size: $type-size-8;
+    font-size: 1em;
   }
 
   li, ul {
     margin-top: 0em;
     margin-bottom: 0em;
-    //font-size: $type-size-6;
+    font-size: $type-size-6;
   }
 
   /* paragraph indents */
