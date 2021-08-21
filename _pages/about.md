@@ -99,13 +99,31 @@ I am happily married to Lee and father of Gur 🙂
     * **Uri Alon**, Roy Sadaka, Omer Levy, Eran Yahav
     * Appeared in **_ICML’2020_**
     * Online demo: [https://www.AnyCodeGen.org](https://www.AnyCodeGen.org){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/1910.00577.pdf){:target="_blank"} [[Poster]](files/slm_poster.pdf){:target="_blank"} [[Slides]](files/slm-icml.pdf){:target="_blank"} [[Video]](https://slideslive.com/38927682/structural-language-models-of-code){:target="_blank"} [[Data]](https://github.com/tech-srl/slm-code-generation){:target="_blank"} [[BibTex]](https://pastebin.com/raw/8D64vzux){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1910.00577.pdf){:target="_blank"} [[Poster]](files/slm_poster.pdf){:target="_blank"} [[Slides]](files/slm-icml.pdf){:target="_blank"} [[Video]](https://slideslive.com/38927682/structural-language-models-of-code){:target="_blank"} [[Data]](https://github.com/tech-srl/slm-code-generation){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/05/11/from-programs-to-deep-models-part-3-code-completion/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/8D64vzux){:target="_blank"}
 
 * **Contextual Speech Recognition with Difficult Negative Training Examples**
     * **Uri Alon**, Golan Pundak, Tara N. Sainath
     * Appeared in **_ICASSP’2019_**
     * [[PDF]](https://arxiv.org/pdf/1810.12170){:target="_blank"} [[Poster]](files/icassp2019_poster.pdf){:target="_blank"} [[BibTex]](https://pastebin.com/raw/yfRdBvS1){:target="_blank"}
     
+* **code2seq: Generating Sequences from Structured Representations of Code**
+    * **Uri Alon**, Shaked Brody, Omer Levy, Eran Yahav
+    * Appeared in **_ICLR’2019_**
+    * Online demo: [https://code2seq.org](https://code2seq.org){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1808.01400){:target="_blank"} [[Poster]](files/ICLR19_poster_code2seq.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/code2seq/){:target="_blank"} [[BibTex]](    * [[PDF]](https://arxiv.org/pdf/1808.01400){:target="_blank"} [[Poster]](files/ICLR19_poster_code2seq.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/code2seq/){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bw548FeG){:target="_blank"}
+){:target="_blank"}
+
+* **code2vec: Learning Distributed Representations of Code**
+    * **Uri Alon**, Meital Zilberstein, Omer Levy, Eran Yahav
+    * Appeared in **_POPL’2019_**
+    * [**ACM SIGPLAN Research Highlight**](http://www.sigplan.org/Highlights/Papers/){:target="_blank"}
+    * Online demo: [https://www.code2vec.org](https://www.code2vec.org){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1803.09473){:target="_blank"} [[Slides]](files/code2vec_popl19_slides.pdf){:target="_blank"} [[Video]](https://t.co/fjz2oVoDus){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[Code]](https://github.com/tech-srl/code2vec){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ddAkvska){:target="_blank"}
+
+* **A General Path-Based Representation for Predicting Program Properties**
+    * **Uri Alon**, Meital Zilberstein, Omer Levy, Eran Yahav
+    * Appeared in **_PLDI’2018_**
+    * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
 
 ---
 # Demos
