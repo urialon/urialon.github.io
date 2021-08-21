@@ -26,7 +26,7 @@
   .page__inner-wrap {
     @include full();
 
-    
+    .page__content,
     .page__meta,
     .page__share {
       @include full();
@@ -60,8 +60,8 @@
   }
 
   li, ul {
-    margin-top: 0.1em;
-    margin-bottom: 0.1em;
+    margin-top: 0em;
+    margin-bottom: 0em;
   }
 
   /* paragraph indents */
