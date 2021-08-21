@@ -125,6 +125,11 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in **_PLDI’2018_**
     * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
 
+## Technical Reports
+* **Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling**
+    * Jonathan Shen, ..., **Uri Alon**, ...
+    * [[PDF]](https://arxiv.org/pdf/1902.08295.pdf){:target="_blank"}
+      
 ---
 # Demos
 
@@ -136,3 +141,21 @@ I am happily married to Lee and father of Gur 🙂
 
 {% include feature_row id="feature_row3" type="left" %}
 <a name="AnyCodeGen"></a> 
+
+---
+# Service
+* Program Committee: PLDI’2021, NeurIPS’2020 CAP workshop, AIDM’20, AIDM’19
+* Reviewer: ICML’2021, ICLR’2021, NeurIPS’2020, ICLR’2020
+
+---
+# Awards
+* 2021-2022 – Rothschild Post-Doctoral Fellowship
+* 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
+* 2020 – [ACM SIGPLAN Research Highlight](http://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
+* 2019 – Jacobs Excellence Scholarship
+* 2019 – Faculty Funding Excellence Scholarship
+* 2018 – Faculty Funding Excellence Scholarship
+* 2016 – Excellent Teaching Assistant
+* 2016 – Dean’s Support Excellent Scholarship
+* 2016 – Alumnus of the Rothchild-Technion Program for Excellence
+* 2015 – SAMBA – CS Excellent Students
