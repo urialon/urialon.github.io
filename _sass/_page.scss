@@ -52,7 +52,6 @@
 
   h2 {
     padding-bottom: 0.5em;
-    margin-top: 0em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -63,7 +62,6 @@
   li, ul {
     margin-top: 0em;
     margin-bottom: 0em;
-    font-size: $type-size-6;
   }
 
   /* paragraph indents */
@@ -203,7 +201,7 @@
    ========================================================================== */
 
 .page__share {
-  margin-top: 0em;
+  margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
@@ -233,7 +231,7 @@
    ========================================================================== */
 
 .page__meta {
-  margin-top: 0em;
+  margin-top: 2em;
   color: mix(#fff, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
@@ -385,7 +383,7 @@
    ========================================================================== */
 
 .page__related {
-  margin-top: 0em;
+  margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
   @include clearfix();

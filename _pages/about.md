@@ -99,7 +99,8 @@ I am happily married to Lee and father of Gur 🙂
     * **Uri Alon**, Roy Sadaka, Omer Levy, Eran Yahav
     * Appeared in **_ICML’2020_**
     * Online demo: [https://www.AnyCodeGen.org](https://www.AnyCodeGen.org){:target="_blank"}
-    
+    * [[PDF]](){:target="_blank"} [[Video]](){:target="_blank"} [[Code]](){:target="_blank"} [[BibTex]](){:target="_blank"}
+
 ---
 # Demos
 
