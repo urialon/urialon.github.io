@@ -78,7 +78,7 @@ I am happily married to Lee and father of Gur 🙂
 * **On the Bottleneck of Graph Neural Networks and its Practical Implications**
     * **Uri Alon**, Eran Yahav
     * Appeared in **_ICLR'2021_**
-    * [[PDF]](https://arxiv.org/pdf/2006.05205){:target="_blank"} [[Poster]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/03/bottleneck_poster.pdf){:target="_blank"} [[Slides]](files/bottleneck_slides.pdf){:target="_blank"} [**[Video]**](https://youtu.be/vrLsEwzZTCQ){:target="_blank"} [[Code]](https://github.com/tech-srl/bottleneck/){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/f940b575){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2006.05205){:target="_blank"} [[Poster]](files/bottleneck_poster.pdf){:target="_blank"} [[Slides]](files/bottleneck_slides.pdf){:target="_blank"} [**[Video]**](https://youtu.be/vrLsEwzZTCQ){:target="_blank"} [[Code]](https://github.com/tech-srl/bottleneck/){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/f940b575){:target="_blank"}
 
 * **A Structural Model for Contextual Code Changes**
     * Shaked Brody, **Uri Alon**, Eran Yahav
@@ -99,12 +99,12 @@ I am happily married to Lee and father of Gur 🙂
     * **Uri Alon**, Roy Sadaka, Omer Levy, Eran Yahav
     * Appeared in **_ICML’2020_**
     * Online demo: [https://www.AnyCodeGen.org](https://www.AnyCodeGen.org){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/1910.00577.pdf){:target="_blank"} [[Poster]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2020/09/icml_poster.pdf){:target="_blank"} [[Slides]](files/slm-icml.pdf){:target="_blank"} [[Video]](https://slideslive.com/38927682/structural-language-models-of-code){:target="_blank"} [[Data]](https://github.com/tech-srl/slm-code-generation){:target="_blank"} [[BibTex]](https://pastebin.com/raw/8D64vzux){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1910.00577.pdf){:target="_blank"} [[Poster]](files/slm_poster.pdf){:target="_blank"} [[Slides]](files/slm-icml.pdf){:target="_blank"} [[Video]](https://slideslive.com/38927682/structural-language-models-of-code){:target="_blank"} [[Data]](https://github.com/tech-srl/slm-code-generation){:target="_blank"} [[BibTex]](https://pastebin.com/raw/8D64vzux){:target="_blank"}
 
 * **Contextual Speech Recognition with Difficult Negative Training Examples**
     * **Uri Alon**, Golan Pundak, Tara N. Sainath
     * Appeared in **_ICASSP’2019_**
-    * [[PDF]](https://arxiv.org/pdf/1810.12170){:target="_blank"} [[Poster]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2019/08/icassp2019_poster.pdf){:target="_blank"} [[BibTex]](https://pastebin.com/raw/yfRdBvS1){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1810.12170){:target="_blank"} [[Poster]](files/icassp2019_poster.pdf){:target="_blank"} [[BibTex]](https://pastebin.com/raw/yfRdBvS1){:target="_blank"}
     
 
 ---
