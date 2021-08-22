@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Uri Alon | Postdoctoral Researcher, Carnegie Mellon University"
+title                    : "Uri Alon | Postdoctoral Researcher, Language Technologies Institute, Carnegie Mellon University"
 title_separator          : "|"
 name                     : &name "Uri Alon"
 description              : &description "personal description"
