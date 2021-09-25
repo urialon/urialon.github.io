@@ -53,12 +53,7 @@ My research interests are broad and include programming language processing (PLP
 
 I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}.
 
-#During most of my PhD, I focused on deep learning approaches for modeling and generating source code, a field we call Programming Language Processing. 
-#I also worked on understanding graph neural networks.
-#Currently, I am also working on NLP.
-
-
-Previously, I served 7 years as an officer onboard a missile ship in the Israeli Navy. 
+Previously, I served 7 years as an officer onboard a missile ship in the Israeli Navy.
 Later, I completed my BSc _summa cum laude_ at the Computer Science Department at the Technion, as an alumnus of The Rothschild-Technion Scholars Program for Excellence. 
 Between 2014-2016, I worked at Microsoft R&D center in Haifa, developing data security services for the cloud. 
 Between June-September of 2018, I interned at Google New-York, researching neural models for speech recognition.
