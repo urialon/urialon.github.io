@@ -49,7 +49,7 @@ feature_row3:
 
 I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"}, and a member of [NeuLab](https://www.cs.cmu.edu/~neulab/){:target="_blank"}.
 
-My research interests are broad and include programming language processing (PLP), natural language processing (NLP) and general deep learning.
+My research interests are broad and include programming language processing (PLP), natural language processing (NLP) and deep learning in general.
 
 I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}.
 
