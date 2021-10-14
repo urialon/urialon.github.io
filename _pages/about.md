@@ -75,10 +75,6 @@ I am happily married to Lee and father of Gur 🙂
     * Shaked Brody, **Uri Alon**, Eran Yahav
     * arXiv (2021) [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
 
-* **Single-Node Attack for Fooling Graph Neural Networks**
-    * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
-    * arXiv (2020) [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"} [[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
-
 ## Accepted Papers
 * **On the Bottleneck of Graph Neural Networks and its Practical Implications**
     * **Uri Alon**, Eran Yahav
@@ -130,10 +126,20 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in **_PLDI’2018_**
     * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
 
+
 ## Technical Reports
+
+
 * **Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling**
     * Jonathan Shen, ..., **Uri Alon**, ...
     * [[PDF]](https://arxiv.org/pdf/1902.08295.pdf){:target="_blank"}
+
+
+## Workshops
+
+* **Single-Node Attack for Fooling Graph Neural Networks**
+    * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
+    * DLG-KDD'2021 [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"} [[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
       
 ---
 # Demos
