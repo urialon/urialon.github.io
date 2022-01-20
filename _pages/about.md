@@ -65,16 +65,17 @@ I am happily married to Lee and father of Gur 🙂
 ---
 # Publications <a href="https://scholar.google.co.il/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
 
-## Preprints
-* **How Attentive are Graph Attention Networks?**
-    * Shaked Brody, **Uri Alon**, Eran Yahav
-    * arXiv (2021) [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
-  * GATv2 implementations:
-    [[PyTorch Geometric]](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GATv2Conv){:target="_blank"}
-    [[DGL]](https://docs.dgl.ai/en/latest/api/python/nn.pytorch.html#gatv2conv){:target="_blank"}
-    [[TensorFlow GNN]](https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/docs/api_docs/python/gnn/keras/layers/GATv2.md){:target="_blank"}
 
 ## Accepted Papers
+* **How Attentive are Graph Attention Networks?**
+    * Shaked Brody, **Uri Alon**, Eran Yahav
+    * To appear in **_ICLR'2022_**
+    * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
+    * GATv2 implementations:
+      [[PyTorch Geometric]](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GATv2Conv){:target="_blank"}
+      [[DGL]](https://docs.dgl.ai/en/latest/api/python/nn.pytorch.html#gatv2conv){:target="_blank"}
+      [[TensorFlow GNN]](https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/docs/api_docs/python/gnn/keras/layers/GATv2.md){:target="_blank"} 
+
 * **On the Bottleneck of Graph Neural Networks and its Practical Implications**
     * **Uri Alon**, Eran Yahav
     * Appeared in **_ICLR'2021_**
