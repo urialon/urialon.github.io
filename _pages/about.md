@@ -120,7 +120,6 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in **_ICLR’2019_**
     * Online demo: [https://code2seq.org](https://code2seq.org){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/1808.01400){:target="_blank"} [[Poster]](files/ICLR19_poster_code2seq.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[Code]](https://github.com/tech-srl/code2seq/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bw548FeG){:target="_blank"}
-){:target="_blank"}
 
 * **code2vec: Learning Distributed Representations of Code**
     * **Uri Alon**, Meital Zilberstein, Omer Levy, Eran Yahav
