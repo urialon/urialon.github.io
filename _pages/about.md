@@ -72,6 +72,7 @@ I am happily married to Lee and father of Gur 🙂
 ## Preprints
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
+    * arXiv, 2022
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[BibTex]](https://pastebin.com/raw/TkK9mwwa){:target="_blank"}
     
 ## Accepted Papers
