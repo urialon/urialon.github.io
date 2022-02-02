@@ -62,10 +62,18 @@ In addition, I hold a B.A. in Humanities.
 
 I am happily married to Lee and father of Gur 🙂
 
+### News
+**_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431v1.pdf)
+
+**_January 2022_** - our paper [How Attentive are Graph Attention Networks?](https://arxiv.org/pdf/2105.14491.pdf) was accepted to ICLR'2022!
+
 ---
+## Preprints
+* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
+    * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
+    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[BibTex]](https://pastebin.com/raw/TkK9mwwa){:target="_blank"}
+
 # Publications <a href="https://scholar.google.co.il/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
-
-
 ## Accepted Papers
 * **How Attentive are Graph Attention Networks?**
     * Shaked Brody, **Uri Alon**, Eran Yahav
@@ -111,7 +119,7 @@ I am happily married to Lee and father of Gur 🙂
     * **Uri Alon**, Shaked Brody, Omer Levy, Eran Yahav
     * Appeared in **_ICLR’2019_**
     * Online demo: [https://code2seq.org](https://code2seq.org){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/1808.01400){:target="_blank"} [[Poster]](files/ICLR19_poster_code2seq.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/code2seq/){:target="_blank"} [[BibTex]](    * [[PDF]](https://arxiv.org/pdf/1808.01400){:target="_blank"} [[Poster]](files/ICLR19_poster_code2seq.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/code2seq/){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bw548FeG){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1808.01400){:target="_blank"} [[Poster]](files/ICLR19_poster_code2seq.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[Code]](https://github.com/tech-srl/code2seq/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bw548FeG){:target="_blank"}
 ){:target="_blank"}
 
 * **code2vec: Learning Distributed Representations of Code**
