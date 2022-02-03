@@ -63,7 +63,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-**_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431v1.pdf)
+**_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431)
 
 **_January 2022_** - our paper [How Attentive are Graph Attention Networks?](https://arxiv.org/pdf/2105.14491.pdf) was accepted to ICLR'2022!
 
