@@ -83,7 +83,7 @@ I am happily married to Lee and father of Gur 🙂
     * GATv2 implementations:
       * [[PyTorch Geometric]](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GATv2Conv){:target="_blank"}: `from torch_geometric.nn.conv.gatv2_conv import GATv2Conv`
       * [[DGL]](https://docs.dgl.ai/en/latest/api/python/nn.pytorch.html#gatv2conv){:target="_blank"}: `from dgl.nn.pytorch import GATv2Conv`
-      * [[TensorFlow GNN]](https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/docs/api_docs/python/gnn/keras/layers/GATv2.md){:target="_blank"}: `from tensorflow_gnn.graph.keras.layers.gat_v2 import GATv2Convolution` 
+      * [[TensorFlow GNN]](https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/docs/api_docs/python/gnn/keras/layers/GATv2.md){:target="_blank"}: `from tensorflow_gnn.keras.layers import GATv2` 
 
 * **On the Bottleneck of Graph Neural Networks and its Practical Implications**
     * **Uri Alon**, Eran Yahav
