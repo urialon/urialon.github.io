@@ -68,7 +68,7 @@ I am happily married to Lee and father of Gur 🙂
 **_January 2022_** - our paper [How Attentive are Graph Attention Networks?](https://arxiv.org/pdf/2105.14491.pdf) was accepted to ICLR'2022! 
 
 ---
-# Publications <a href="https://scholar.google.co.il/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
+# Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
 ## Preprints
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
