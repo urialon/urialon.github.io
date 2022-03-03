@@ -63,6 +63,8 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+**_March 2022_** - a new preprint: [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/pdf/2201.12431)
+
 **_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431)
 
 **_January 2022_** - our paper [How Attentive are Graph Attention Networks?](https://arxiv.org/pdf/2105.14491.pdf) was accepted to ICLR'2022! 
@@ -74,7 +76,12 @@ I am happily married to Lee and father of Gur 🙂
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * arXiv, 2022
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[BibTex]](https://pastebin.com/raw/TkK9mwwa){:target="_blank"}
-    
+
+* **A Systematic Evaluation of Large Language Models of Code**
+    * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
+    * arXiv, 2022
+    * [[PDF]](https://arxiv.org/pdf/2202.13169){:target="_blank"} [[Code]](https://github.com/VHellendoorn/Code-LMs){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ZeNXqKUx)
+
 ## Accepted Papers
 * **How Attentive are Graph Attention Networks?**
     * Shaked Brody, **Uri Alon**, Eran Yahav
