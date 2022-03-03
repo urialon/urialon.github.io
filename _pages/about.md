@@ -75,7 +75,7 @@ I am happily married to Lee and father of Gur 🙂
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * arXiv, 2022
-    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[BibTex]](https://pastebin.com/raw/TkK9mwwa){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
 
 * **A Systematic Evaluation of Large Language Models of Code**
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
