@@ -80,13 +80,14 @@ I am happily married to Lee and father of Gur 🙂
 * **A Systematic Evaluation of Large Language Models of Code**
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
     * arXiv, 2022
+    * [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2202.13169){:target="_blank"} [[Code]](https://github.com/VHellendoorn/Code-LMs){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ZeNXqKUx){:target="_blank"}
 
 ## Accepted Papers
 * **How Attentive are Graph Attention Networks?**
     * Shaked Brody, **Uri Alon**, Eran Yahav
     * To appear in **_ICLR'2022_**
-    * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[Talk]](https://drive.google.com/file/d/1B2uSH66dfROAgK7RVURjC4WrdSx9tPS_/view){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
     * GATv2 implementations:
       * [[PyTorch Geometric]](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GATv2Conv){:target="_blank"}: `from torch_geometric.nn.conv.gatv2_conv import GATv2Conv`
       * [[DGL]](https://docs.dgl.ai/en/latest/api/python/nn.pytorch.html#gatv2conv){:target="_blank"}: `from dgl.nn.pytorch import GATv2Conv`
@@ -141,6 +142,10 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in **_PLDI’2018_**
     * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
 
+## PhD Thesis
+ * **Machine Learning for Programming Language Processing**
+     * Computer Science Department, Technion, 2021
+     * [[PDF]](https://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2021/PHD/PHD-2021-10.pdf){:target="_blank"}
 
 ## Technical Reports
 
