@@ -135,7 +135,7 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in **_POPL’2019_**
     * [**ACM SIGPLAN Research Highlight**](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}
     * Online demo: [https://www.code2vec.org](https://www.code2vec.org){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/1803.09473){:target="_blank"} [[Slides]](files/code2vec_popl19_slides.pdf){:target="_blank"} [[Video]](https://t.co/fjz2oVoDus){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[Code]](https://github.com/tech-srl/code2vec){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ddAkvska){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1803.09473){:target="_blank"} [[Slides (PDF)]](files/code2vec_popl19_slides.pdf){:target="_blank"} [[Slides (PPT)]](files/code2vec_popl19_presentation.pptx){:target="_blank"} [[Video]](https://t.co/fjz2oVoDus){:target="_blank"} [[Blog]](https://blog.sigplan.org/2020/02/12/from-programs-to-deep-models-part-2/){:target="_blank"} [[Code]](https://github.com/tech-srl/code2vec){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ddAkvska){:target="_blank"}
 
 * **A General Path-Based Representation for Predicting Program Properties**
     * **Uri Alon**, Meital Zilberstein, Omer Levy, Eran Yahav
