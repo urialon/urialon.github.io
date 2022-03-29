@@ -145,7 +145,7 @@ I am happily married to Lee and father of Gur 🙂
 ## PhD Thesis
  * **Machine Learning for Programming Language Processing**
      * Computer Science Department, Technion, 2021
-     * [[PDF]](https://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2021/PHD/PHD-2021-10.pdf){:target="_blank"}
+     * [[PDF]](files/thesis.pdf){:target="_blank"}
 
 ## Technical Reports
 
