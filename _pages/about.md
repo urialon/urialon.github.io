@@ -75,7 +75,7 @@ I am happily married to Lee and father of Gur 🙂
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * arXiv, 2022
-    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
 
 * **A Systematic Evaluation of Large Language Models of Code**
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
@@ -87,7 +87,7 @@ I am happily married to Lee and father of Gur 🙂
 * **How Attentive are Graph Attention Networks?**
     * Shaked Brody, **Uri Alon**, Eran Yahav
     * To appear in **_ICLR'2022_**
-    * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[Talk]](https://drive.google.com/file/d/1B2uSH66dfROAgK7RVURjC4WrdSx9tPS_/view){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[Video]](https://drive.google.com/file/d/1B2uSH66dfROAgK7RVURjC4WrdSx9tPS_/view){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
     * GATv2 implementations:
       * [[PyTorch Geometric]](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GATv2Conv){:target="_blank"}: `from torch_geometric.nn.conv.gatv2_conv import GATv2Conv`
       * [[DGL]](https://docs.dgl.ai/en/latest/api/python/nn.pytorch.html#gatv2conv){:target="_blank"}: `from dgl.nn.pytorch import GATv2Conv`
