@@ -63,6 +63,8 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+**_April 2022_** - our [PolyCoder](https://arxiv.org/pdf/2201.12431) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/) and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022) workshops.
+
 **_March 2022_** - a new preprint: [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/pdf/2201.12431)
 
 **_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431)
@@ -77,7 +79,7 @@ I am happily married to Lee and father of Gur 🙂
     * arXiv, 2022
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
 
-* **A Systematic Evaluation of Large Language Models of Code**
+* **A Systematic Evaluation of Large Language Models of Code** (PolyCoder)
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
     * arXiv, 2022
     * Press: [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
