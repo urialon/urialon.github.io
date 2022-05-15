@@ -65,13 +65,13 @@ I am happily married to Lee and father of Gur 🙂
 ### News
 **_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
 
-**_April 2022_** - our [PolyCoder](https://arxiv.org/pdf/2201.12431) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/) and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022) workshops.
+**_April 2022_** - our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/) and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022) workshops.
 
-**_March 2022_** - a new preprint: [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/pdf/2201.12431)
+**_March 2022_** - a new preprint: [A Systematic Evaluation of Large Language Models of Code](#polycoder)
 
-**_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431)
+**_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](#retomaton)
 
-**_January 2022_** - our paper [How Attentive are Graph Attention Networks?](https://arxiv.org/pdf/2105.14491.pdf) was accepted to ICLR'2022! 
+**_January 2022_** - our paper [How Attentive are Graph Attention Networks?](#attentive) was accepted to ICLR'2022! 
 
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
@@ -82,7 +82,7 @@ I am happily married to Lee and father of Gur 🙂
     * To appear in **_ICML'2022_**
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [Code: soon] [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
 
-* **How Attentive are Graph Attention Networks?**
+* **How Attentive are Graph Attention Networks?**{:id="attentive"}
     * Shaked Brody, **Uri Alon**, Eran Yahav
     * Appeared in **_ICLR'2022_**
     * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[Video]](https://drive.google.com/file/d/1B2uSH66dfROAgK7RVURjC4WrdSx9tPS_/view){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
@@ -155,7 +155,7 @@ I am happily married to Lee and father of Gur 🙂
 
 
 ## Workshops
-* **A Systematic Evaluation of Large Language Models of Code** (PolyCoder)
+* **A Systematic Evaluation of Large Language Models of Code**{:id="polycoder"} (PolyCoder)
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
     * To appear in MAPS'2022
     * Appeared in Deep Learning for Code, ICLR'2022 workshop
