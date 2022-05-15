@@ -77,7 +77,7 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
 
 ## Accepted Papers
-* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{#retomaton}
+* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"}
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * To appear in **_ICML'2022_**
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [Code: soon] [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
@@ -186,7 +186,7 @@ I am happily married to Lee and father of Gur 🙂
 ---
 # Awards
 * 2022 - Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
-* 2021-2022 – Rothschild Post-Doctoral Fellowship
+* 2021-2022 – [Rothschild Post-Doctoral Fellowship](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}
 * 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
 * 2020 – [ACM SIGPLAN Research Highlight](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
 * 2019 – Jacobs Excellence Scholarship
