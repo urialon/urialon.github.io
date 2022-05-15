@@ -166,6 +166,21 @@ I am happily married to Lee and father of Gur 🙂
     * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
     * DLG-KDD'2021 [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"} [[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
       
+
+---
+# Awards
+* 2022 - Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
+* 2021-2022 – [Rothschild Post-Doctoral Fellowship](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}
+* 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
+* 2020 – [ACM SIGPLAN Research Highlight](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
+* 2019 – Jacobs Excellence Scholarship
+* 2019 – Department Funding Excellence Scholarship
+* 2018 – Department Funding Excellence Scholarship
+* 2016 – Excellent Teaching Assistant
+* 2016 – Dean’s Excellent Scholarship
+* 2016 – Alumnus of the Rothchild-Technion Program for Excellence
+* 2015 – SAMBA – CS Excellent Students
+
 ---
 # Demos
 
@@ -183,16 +198,4 @@ I am happily married to Lee and father of Gur 🙂
 * Program Committee: MAPS 2022, Deep Learning for Code ICLR'22 workshop, PLDI’2021, NeurIPS’2020 CAP workshop, AIDM’20, AIDM’19
 * Reviewer: ICML'2022, ICLR'2022 (Highlighted Reviewer), AIPLANS NeurIPS 2021 workshop, ICML’2021 (top 10% Best Reviewers), ICLR’2021, NeurIPS’2020, ICLR’2020
 
----
-# Awards
-* 2022 - Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
-* 2021-2022 – [Rothschild Post-Doctoral Fellowship](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}
-* 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
-* 2020 – [ACM SIGPLAN Research Highlight](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
-* 2019 – Jacobs Excellence Scholarship
-* 2019 – Department Funding Excellence Scholarship
-* 2018 – Department Funding Excellence Scholarship
-* 2016 – Excellent Teaching Assistant
-* 2016 – Dean’s Excellent Scholarship
-* 2016 – Alumnus of the Rothchild-Technion Program for Excellence
-* 2015 – SAMBA – CS Excellent Students
+
