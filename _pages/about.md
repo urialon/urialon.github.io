@@ -63,6 +63,8 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+**_May 2022_** - our RetoMaton paper ([Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431){:target="_blank"}) was accepted to ICML'2022!
+
 **_April 2022_** - our [PolyCoder](https://arxiv.org/pdf/2201.12431) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/) and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022) workshops.
 
 **_March 2022_** - a new preprint: [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/pdf/2201.12431)
@@ -73,17 +75,16 @@ I am happily married to Lee and father of Gur 🙂
 
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
-## Preprints
-* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
-    * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
-    * arXiv, 2022
-    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
-
 
 ## Accepted Papers
+* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
+    * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
+    * To appear in **_ICML'2022_**
+    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [Code: soon] [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
+
 * **How Attentive are Graph Attention Networks?**
     * Shaked Brody, **Uri Alon**, Eran Yahav
-    * To appear in **_ICLR'2022_**
+    * Appeared in **_ICLR'2022_**
     * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[Video]](https://drive.google.com/file/d/1B2uSH66dfROAgK7RVURjC4WrdSx9tPS_/view){:target="_blank"} [[BibTex]](https://pastebin.com/raw/u6B1gRbh){:target="_blank"}
     * GATv2 implementations:
       * [[PyTorch Geometric]](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GATv2Conv){:target="_blank"}: `from torch_geometric.nn.conv.gatv2_conv import GATv2Conv`
@@ -183,13 +184,14 @@ I am happily married to Lee and father of Gur 🙂
 
 ---
 # Awards
+* 2022 - Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
 * 2021-2022 – Rothschild Post-Doctoral Fellowship
 * 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
 * 2020 – [ACM SIGPLAN Research Highlight](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
 * 2019 – Jacobs Excellence Scholarship
-* 2019 – Faculty Funding Excellence Scholarship
-* 2018 – Faculty Funding Excellence Scholarship
+* 2019 – Department Funding Excellence Scholarship
+* 2018 – Department Funding Excellence Scholarship
 * 2016 – Excellent Teaching Assistant
-* 2016 – Dean’s Support Excellent Scholarship
+* 2016 – Dean’s Excellent Scholarship
 * 2016 – Alumnus of the Rothchild-Technion Program for Excellence
 * 2015 – SAMBA – CS Excellent Students
