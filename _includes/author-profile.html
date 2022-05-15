@@ -113,6 +113,9 @@
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><img src="images/icons8-google-scholar-192.png" style="height: 5.5em;width:auto;padding-top:0em;padding-bottom:1.8em;" class="fas"></a>
       {% endif %}
+      {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
       <!--{% if author.email %}-->
         <!--<a href="mailto:{{ author.email }}"><i class="fas fa-3x fa-envelope" aria-hidden="true"></i></a>-->
       <!--{% endif %}-->
@@ -122,6 +125,7 @@
       <!--{% if author.linkedin %}-->
         <!--<a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-3x fa-linkedin" aria-hidden="true"></i></a>-->
       <!--{% endif %}-->
+      
     </div>
   </div>
 </div>
