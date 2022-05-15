@@ -77,7 +77,7 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
 
 ## Accepted Papers
-* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"}
+* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * To appear in **_ICML'2022_**
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [Code: soon] [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
