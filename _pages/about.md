@@ -63,7 +63,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-**_May 2022_** - our RetoMaton paper ([Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](https://arxiv.org/pdf/2201.12431){:target="_blank"}) was accepted to ICML'2022!
+**_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
 
 **_April 2022_** - our [PolyCoder](https://arxiv.org/pdf/2201.12431) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/) and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022) workshops.
 
@@ -77,7 +77,7 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
 
 ## Accepted Papers
-* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**
+* **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{#retomaton}
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * To appear in **_ICML'2022_**
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [Code: soon] [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
@@ -143,6 +143,7 @@ I am happily married to Lee and father of Gur 🙂
 ## PhD Thesis
  * **Machine Learning for Programming Language Processing**
      * Computer Science Department, Technion, 2021
+     * Awarded the Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
      * [[PDF]](files/thesis.pdf){:target="_blank"}
 
 ## Technical Reports
