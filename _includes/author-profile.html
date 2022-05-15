@@ -22,11 +22,14 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      <!-- <li>{{ author.location }}</li> -->
+      <li>Office: GHC 5413</li>
       {% if author.location %}
        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
-      <li><a href="mailto:{{ author.email }}">{{ author.email }}</a></li>
+      <!-- <li><a href="mailto:{{ author.email }}">{{ author.email }}</a></li> -->
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-3x fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
