@@ -74,7 +74,7 @@ I am happily married to Lee and father of Gur 🙂
 **_January 2022_** - our paper [How Attentive are Graph Attention Networks?](#attentive) was accepted to ICLR'2022! 
 
 ---
-# Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><img src="images/icons8-google-scholar-192.png" style="height: 2em;"></a><a name="publications"></a>
+# Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Accepted Papers
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
