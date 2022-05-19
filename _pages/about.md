@@ -63,7 +63,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-**_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
+**_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022 as a **Spotlight**!
 
 **_April 2022_** - our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/) and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022) workshops.
 
@@ -79,7 +79,7 @@ I am happily married to Lee and father of Gur 🙂
 ## Accepted Papers
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
-    * To appear in **_ICML'2022_**
+    * To appear in **_ICML'2022_** (**Spotlight**)
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://youtu.be/MOhWCb4cqjo){:target="_blank"} [Code: soon] [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
 
 * **How Attentive are Graph Attention Networks?**{:id="attentive"}
