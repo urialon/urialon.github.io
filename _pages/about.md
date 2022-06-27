@@ -80,7 +80,7 @@ I am happily married to Lee and father of Gur 🙂
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * To appear in **_ICML'2022_**
-    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Code]](https://github.com/neulab/retomaton){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[5-min Video]](https://recorder-v3.slideslive.com/?share=69099&s=f862fc4f-577c-4a54-a820-1fbb4786afb9){:target="_blank"} [[1-hour Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Code]](https://github.com/neulab/retomaton){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
 
 * **How Attentive are Graph Attention Networks?**{:id="attentive"}
     * Shaked Brody, **Uri Alon**, Eran Yahav
