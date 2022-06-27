@@ -138,7 +138,7 @@ I am happily married to Lee and father of Gur 🙂
 * **A General Path-Based Representation for Predicting Program Properties**
     * **Uri Alon**, Meital Zilberstein, Omer Levy, Eran Yahav
     * Appeared in **_PLDI’2018_**
-    * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/w03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
 
 ## PhD Thesis
  * **Machine Learning for Programming Language Processing**
@@ -157,8 +157,8 @@ I am happily married to Lee and father of Gur 🙂
 ## Workshops
 * **A Systematic Evaluation of Large Language Models of Code**{:id="polycoder"} (PolyCoder)
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
-    * To appear in MAPS'2022
-    * Appeared in Deep Learning for Code, ICLR'2022 workshop
+    * Appeared in [MAPS'2022](https://pldi22.sigplan.org/details/maps-2022-papers/1/A-Systematic-Evaluation-of-Large-Language-Models-of-Code){:target="_blank"}
+    * Appeared in [Deep Learning for Code](https://openreview.net/forum?id=SLcEnoObJZq){:target="_blank"}, ICLR'2022 workshop
     * Press: [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2202.13169){:target="_blank"} [[Code]](https://github.com/VHellendoorn/Code-LMs){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ZeNXqKUx){:target="_blank"}
 
