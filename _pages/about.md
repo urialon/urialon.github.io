@@ -63,9 +63,11 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+**_June 2022_** - I [was selected](https://twitter.com/urialon1/status/1538376772521144320) for the ACM SIGPLAN Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
+
 **_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
 
-**_April 2022_** - our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/) and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022) workshops.
+**_April 2022_** - our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/){:target="_blank"} and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022){:target="_blank"} workshops.
 
 **_March 2022_** - a new preprint: [A Systematic Evaluation of Large Language Models of Code](#polycoder)
 
