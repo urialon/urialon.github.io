@@ -63,7 +63,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-**_June 2022_** - I [was selected](https://twitter.com/urialon1/status/1538376772521144320) for the ACM SIGPLAN Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
+**_June 2022_** - I was selected for the [ACM SIGPLAN Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
 
 **_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
 
@@ -145,7 +145,7 @@ I am happily married to Lee and father of Gur 🙂
 ## PhD Thesis
  * **Machine Learning for Programming Language Processing**
      * Computer Science Department, Technion, 2021
-     * Awarded the Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
+     * Awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
      * [[PDF]](https://zenodo.org/record/6730561/files/thesis.pdf){:target="_blank"}
 
 ## Technical Reports
@@ -171,7 +171,7 @@ I am happily married to Lee and father of Gur 🙂
 
 ---
 # Awards
-* 2022 - Reynolds Doctoral Dissertation Award (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
+* 2022 - [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/) (formerly "SIGPLAN Outstanding Doctoral Dissertation Award"){:target="_blank"}
 * 2021-2022 – [Rothschild Post-Doctoral Fellowship](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}
 * 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
 * 2020 – [ACM SIGPLAN Research Highlight](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
