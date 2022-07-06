@@ -171,7 +171,7 @@ I am happily married to Lee and father of Gur 🙂
 
 ---
 # Awards
-* 2022 - [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/) (formerly "SIGPLAN Outstanding Doctoral Dissertation Award"){:target="_blank"}
+* 2022 - [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
 * 2021-2022 – [Rothschild Post-Doctoral Fellowship](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}
 * 2021-2022 – Fulbright Post-Doctoral Fellowship (declined)
 * 2020 – [ACM SIGPLAN Research Highlight](https://www.sigplan.org/Highlights/Papers/){:target="_blank"}, "code2vec: Learning Distributed Representations of Code" (POPL’2019)
