@@ -90,8 +90,8 @@ I am happily married to Lee and father of Gur 🙂
     * [[PDF]](https://arxiv.org/pdf/2105.14491.pdf){:target="_blank"} [[Poster]](https://shakedbr.cswp.cs.technion.ac.il/wp-content/uploads/sites/112/2022/03/poster.001.png){:target="_blank"} [[Code]](https://github.com/tech-srl/how_attentive_are_gats){:target="_blank"} [[Video]](https://drive.google.com/file/d/1B2uSH66dfROAgK7RVURjC4WrdSx9tPS_/view){:target="_blank"} [[BibTex]](https://pastebin.com/raw/besiLuqp){:target="_blank"}
     * GATv2 implementations:
       * [[PyTorch Geometric]](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.conv.GATv2Conv){:target="_blank"}: `from torch_geometric.nn.conv.gatv2_conv import GATv2Conv`
-      * [[DGL]](https://docs.dgl.ai/en/latest/api/python/nn.pytorch.html#gatv2conv){:target="_blank"}: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`from dgl.nn.pytorch import GATv2Conv`
-      * [[TensorFlow GNN]](https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/docs/api_docs/python/gnn/keras/layers/GATv2.md){:target="_blank"}: &nbsp;&nbsp;&nbsp;&nbsp;`from tensorflow_gnn.keras.layers import GATv2`  
+      * [[DGL]](https://docs.dgl.ai/en/latest/api/python/nn.pytorch.html#gatv2conv): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`from dgl.nn.pytorch import GATv2Conv`
+      * [[TensorFlow GNN]](https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/docs/api_docs/python/gnn/keras/layers/GATv2.md){:target="_blank"}: &nbsp;&nbsp;&nbsp;`from tensorflow_gnn.keras.layers import GATv2`  
 
 * **On the Bottleneck of Graph Neural Networks and its Practical Implications**
     * **Uri Alon**, Eran Yahav
