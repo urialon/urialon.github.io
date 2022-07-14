@@ -63,6 +63,10 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+**_July 2022_** - a new preprint: [`DocCoder`: Generating Code by Retrieving and Reading the Docs](#doccoder)
+
+**_July 2022_** - I released a new HuggingFace 🤗 `transformers` implementation of [RetoMaton](#retomaton) and kNN-language models: [https://github.com/neulab/knn-transformers](https://github.com/neulab/knn-transformers){:target="_blank"}
+
 **_June 2022_** - I was selected for the [ACM SIGPLAN Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
 
 **_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
@@ -78,11 +82,19 @@ I am happily married to Lee and father of Gur 🙂
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
+## Preprints
+* **`DocCoder`: Generating Code by Retrieving and Reading the Docs** {:id="doccoder"}
+    * Shuyan Zhou
+, **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
+    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf) [[Code (under construction)]](https://github.com/shuyanzhou/doccoder) [[BibTex]](https://github.com/shuyanzhou/doccoder#citation)
+
 ## Accepted Papers
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * To appear in **_ICML'2022_**
-    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Poster]](files/Retomaton_poster_ICML_2022.pdf){:target="_blank"} [[5-min Video]](https://recorder-v3.slideslive.com/?share=69099&s=f862fc4f-577c-4a54-a820-1fbb4786afb9){:target="_blank"} [[1-hour Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Slides]](files/retomaton_talk.pdf){:target="_blank"} [[Code]](https://github.com/neulab/retomaton){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Poster]](files/Retomaton_poster_ICML_2022.pdf){:target="_blank"} [[5-min Video]](https://recorder-v3.slideslive.com/?share=69099&s=f862fc4f-577c-4a54-a820-1fbb4786afb9){:target="_blank"} [[1-hour Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Slides]](files/retomaton_talk.pdf){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ceVseymz){:target="_blank"}
+    * [[Code - `fairseq` implementation]](https://github.com/neulab/retomaton){:target="_blank"} 
+    * [[Code - HuggingFace 🤗 `transformers` implementation]](https://github.com/neulab/knn-transformers){:target="_blank"} [[Trained models]](neulab/distilgpt2-finetuned-wikitext103){:target="_blank"} 
 
 * **How Attentive are Graph Attention Networks?**{:id="attentive"}
     * Shaked Brody, **Uri Alon**, Eran Yahav
