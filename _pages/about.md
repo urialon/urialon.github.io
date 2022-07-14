@@ -83,7 +83,7 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
-* **`DocCoder`: Generating Code by Retrieving and Reading the Docs** {:id="doccoder"}
+* **`DocCoder`: Generating Code by Retrieving and Reading the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
     * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf) [[Code (under construction)]](https://github.com/shuyanzhou/doccoder) [[BibTex]](https://github.com/shuyanzhou/doccoder#citation)
