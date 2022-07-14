@@ -86,7 +86,7 @@ I am happily married to Lee and father of Gur 🙂
 * **`DocCoder`: Generating Code by Retrieving and Reading the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
-    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf) [[Code (under construction)]](https://github.com/shuyanzhou/doccoder) [[BibTex]](https://github.com/shuyanzhou/doccoder#citation)
+    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code (under construction)]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://github.com/shuyanzhou/doccoder#citation){:target="_blank"}
 
 ## Accepted Papers
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
