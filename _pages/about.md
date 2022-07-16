@@ -65,7 +65,7 @@ I am happily married to Lee and father of Gur 🙂
 ### News
 **_July 2022_** - a new preprint: [`DocCoder`: Generating Code by Retrieving and Reading the Docs](#doccoder)
 
-**_July 2022_** - I released a new HuggingFace 🤗 `transformers` implementation of [RetoMaton](#retomaton) and kNN-language models: [https://github.com/neulab/knn-transformers](https://github.com/neulab/knn-transformers){:target="_blank"}
+**_July 2022_** - I released a new HuggingFace 🤗 `transformers` implementation of [RetoMaton](#retomaton), kNN-language models and kNN-machine translation: [https://github.com/neulab/knn-transformers](https://github.com/neulab/knn-transformers){:target="_blank"}
 
 **_June 2022_** - I was selected for the [ACM SIGPLAN Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
 
