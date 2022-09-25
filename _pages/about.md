@@ -63,7 +63,9 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-**_July 2022_** - a new preprint: [`DocCoder`: Generating Code by Retrieving and Reading the Docs](#doccoder)
+**_September 2022_** - We released a new repository for evaluation of code generation, along with pretrained models of several programming languages: [code-bert-score](https://github.com/neulab/code-bert-score){:target="_blank"}, based on CodeBERT.
+
+**_August 2022_** - a new preprint: [`DocCoder`: Generating Code by Retrieving and Reading the Docs](#doccoder)
 
 **_July 2022_** - I released a new HuggingFace 🤗 `transformers` implementation of [RetoMaton](#retomaton), kNN-language models and kNN-machine translation: [https://github.com/neulab/knn-transformers](https://github.com/neulab/knn-transformers){:target="_blank"}
 
