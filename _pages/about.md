@@ -63,37 +63,44 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+**_October 2022_** - Our paper [Language Models of Code are Few-Shot Commonsense Learners](#cocogen) was accepted to EMNLP'2022!
+
 **_September 2022_** - We released a new repository for evaluation of code generation: [code-bert-score](https://github.com/neulab/code-bert-score){:target="_blank"}, along with pretrained models of several programming languages, based on CodeBERT.
 
-**_August 2022_** - a new preprint: [`DocCoder`: Generating Code by Retrieving and Reading the Docs](#doccoder)
+**_August 2022_** - a new preprint: [`DocPrompting`: Generating Code by Retrieving the Docs](#doccoder)
 
 **_July 2022_** - I released a new HuggingFace 🤗 `transformers` implementation of [RetoMaton](#retomaton), kNN-language models and kNN-machine translation: [https://github.com/neulab/knn-transformers](https://github.com/neulab/knn-transformers){:target="_blank"}
 
 **_June 2022_** - I was selected for the [ACM SIGPLAN Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
 
-**_May 2022_** - our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
+**_May 2022_** - Our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
 
-**_April 2022_** - our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/){:target="_blank"} and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022){:target="_blank"} workshops.
+**_April 2022_** - Our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/){:target="_blank"} and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022){:target="_blank"} workshops.
 
-**_March 2022_** - a new preprint: [A Systematic Evaluation of Large Language Models of Code](#polycoder)
+**_March 2022_** - A new preprint: [A Systematic Evaluation of Large Language Models of Code](#polycoder)
 
-**_February 2022_** - a new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](#retomaton)
+**_February 2022_** - A new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](#retomaton)
 
-**_January 2022_** - our paper [How Attentive are Graph Attention Networks?](#attentive) was accepted to ICLR'2022! 
+**_January 2022_** - Our paper [How Attentive are Graph Attention Networks?](#attentive) was accepted to ICLR'2022! 
 
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
-* **`DocCoder`: Generating Code by Retrieving and Reading the Docs**{:id="doccoder"}
+* **`DocPrompting`: Generating Code by Retrieving the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
     * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code (under construction)]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://github.com/shuyanzhou/doccoder#citation){:target="_blank"}
 
 ## Accepted Papers
+* **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen}
+    * Aman Madaan, Shuyan Zhou, **Uri Alon**, Yiming Yang, Graham Neubig
+    * To appear in **_EMNLP'2022_**
+    * [[PDF]](https://arxiv.org/pdf/2210.07128.pdf){:target="_blank"} [[Code]](https://github.com/madaan/CoCoGen){:target="_blank"} [[BibTex]](){:target="_blank"}
+
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
-    * To appear in **_ICML'2022_**
+    * Appeared in **_ICML'2022_**
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Poster]](files/Retomaton_poster_ICML_2022.pdf){:target="_blank"} [[5-min Video]](https://slideslive.com/38983799/neurosymbolic-language-modeling-with-retrieval-automaton){:target="_blank"} [[1-hour Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Slides]](files/retomaton_talk.pdf){:target="_blank"} [[BibTex]](https://pastebin.com/raw/9J5QUDPX){:target="_blank"}
     * [[Code - `fairseq` implementation]](https://github.com/neulab/retomaton){:target="_blank"} 
     * [[Code - HuggingFace 🤗 `transformers` implementation]](https://github.com/neulab/knn-transformers){:target="_blank"} [[Trained models]](https://github.com/neulab/knn-transformers#available-models){:target="_blank"} 
@@ -211,7 +218,7 @@ I am happily married to Lee and father of Gur 🙂
 
 ---
 # Service
-* Reviewer: NeurIPS '2022, TMLR, ICML'2022 (top 10% Best Reviewers), ICLR'2022 (Highlighted Reviewer), AIPLANS NeurIPS 2021 workshop, ICML’2021 (top 10% Best Reviewers), ICLR’2021, NeurIPS’2020, ICLR’2020
+* Reviewer: NeurIPS '2022 (**Outstanding Reviewer**), TMLR, ICML'2022 (**Outstanding Reviewer - top 10%**), ICLR'2022 (**Highlighted Reviewer**), AIPLANS NeurIPS 2021 workshop, ICML’2021 (**top 10% Best Reviewers**), ICLR’2021, NeurIPS’2020, ICLR’2020
 * Program Committee: MAPS 2022, Deep Learning for Code ICLR'22 workshop, PLDI’2021, NeurIPS’2020 CAP workshop, AIDM’20, AIDM’19
 * Area Chair: Learning on Graphs '2022
 
