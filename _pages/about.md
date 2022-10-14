@@ -93,7 +93,7 @@ I am happily married to Lee and father of Gur 🙂
     * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code (under construction)]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://github.com/shuyanzhou/doccoder#citation){:target="_blank"}
 
 ## Accepted Papers
-* **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen}
+* **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen"}
     * Aman Madaan, Shuyan Zhou, **Uri Alon**, Yiming Yang, Graham Neubig
     * To appear in **_EMNLP'2022_**
     * [[PDF]](https://arxiv.org/pdf/2210.07128.pdf){:target="_blank"} [[Code]](https://github.com/madaan/CoCoGen){:target="_blank"} [[BibTex]](){:target="_blank"}
