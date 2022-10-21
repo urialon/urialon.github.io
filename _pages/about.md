@@ -96,7 +96,7 @@ I am happily married to Lee and father of Gur 🙂
 * **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen"}
     * Aman Madaan, Shuyan Zhou, **Uri Alon**, Yiming Yang, Graham Neubig
     * To appear in **_EMNLP'2022_**
-    * [[PDF]](https://arxiv.org/pdf/2210.07128.pdf){:target="_blank"} [[Code]](https://github.com/madaan/CoCoGen){:target="_blank"} [[BibTex]](){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2210.07128.pdf){:target="_blank"} [[Code]](https://github.com/madaan/CoCoGen){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bAQW3kuC){:target="_blank"}
 
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
@@ -184,6 +184,7 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in [Deep Learning for Code](https://openreview.net/forum?id=SLcEnoObJZq){:target="_blank"}, ICLR'2022 workshop
     * Press: [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2202.13169){:target="_blank"} [[Code]](https://github.com/VHellendoorn/Code-LMs){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ZeNXqKUx){:target="_blank"}
+    * Huggingface🤗 model: [NinedayWang/PolyCoder-2.7B](https://huggingface.co/NinedayWang/PolyCoder-2.7B){:target="_blank"}
 
 * **Single-Node Attack for Fooling Graph Neural Networks**
     * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
