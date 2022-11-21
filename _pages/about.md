@@ -63,6 +63,8 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+**_November 2022_** - a new preprint: [PaL: Program-aided Language Models](#pal)
+
 **_October 2022_** - Our paper [Language Models of Code are Few-Shot Commonsense Learners](#cocogen) was accepted to EMNLP'2022!
 
 **_September 2022_** - We released a new repository for evaluation of code generation: [code-bert-score](https://github.com/neulab/code-bert-score){:target="_blank"}, along with pretrained models of several programming languages, based on CodeBERT.
@@ -87,6 +89,11 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
+* **PaL: Program-aided Language Models**{:id="pal"}
+    * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig    
+    * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
+    [[Code]](http://reasonwithpal.com/){:target="_blank"}
+
 * **`DocPrompting`: Generating Code by Retrieving the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
