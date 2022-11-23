@@ -92,7 +92,7 @@ I am happily married to Lee and father of Gur 🙂
 * **PaL: Program-aided Language Models**{:id="pal"}
     * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig    
     * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
-    [[Code]](http://reasonwithpal.com/){:target="_blank"}
+    [[Code]](http://reasonwithpal.com/){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1594714720468144129?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/76dwPn3V){:target="_blank"}
 
 * **`DocPrompting`: Generating Code by Retrieving the Docs**{:id="doccoder"}
     * Shuyan Zhou
@@ -103,12 +103,12 @@ I am happily married to Lee and father of Gur 🙂
 * **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen"}
     * Aman Madaan, Shuyan Zhou, **Uri Alon**, Yiming Yang, Graham Neubig
     * To appear in **_EMNLP'2022_**
-    * [[PDF]](https://arxiv.org/pdf/2210.07128.pdf){:target="_blank"} [[Code]](https://github.com/madaan/CoCoGen){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bAQW3kuC){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2210.07128.pdf){:target="_blank"} [[Code]](https://github.com/madaan/CoCoGen){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1583100368237449216?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bAQW3kuC){:target="_blank"}
 
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
     * **Uri Alon**, Frank F. Xu, Junxian He, Sudipta Sengupta, Dan Roth, Graham Neubig
     * Appeared in **_ICML'2022_**
-    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Poster]](files/Retomaton_poster_ICML_2022.pdf){:target="_blank"} [[5-min Video]](https://slideslive.com/38983799/neurosymbolic-language-modeling-with-retrieval-automaton){:target="_blank"} [[1-hour Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Slides]](files/retomaton_talk.pdf){:target="_blank"} [[BibTex]](https://pastebin.com/raw/9J5QUDPX){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Poster]](files/Retomaton_poster_ICML_2022.pdf){:target="_blank"} [[5-min Video]](https://slideslive.com/38983799/neurosymbolic-language-modeling-with-retrieval-automaton){:target="_blank"} [[1-hour Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Slides]](files/retomaton_talk.pdf){:target="_blank"}  [[Tweet]](https://twitter.com/urialon1/status/1532371214869708801?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"}  [[BibTex]](https://pastebin.com/raw/9J5QUDPX){:target="_blank"}
     * [[Code - `fairseq` implementation]](https://github.com/neulab/retomaton){:target="_blank"} 
     * [[Code - HuggingFace 🤗 `transformers` implementation]](https://github.com/neulab/knn-transformers){:target="_blank"} [[Trained models]](https://github.com/neulab/knn-transformers#available-models){:target="_blank"} 
 
