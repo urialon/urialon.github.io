@@ -174,7 +174,7 @@ I am happily married to Lee and father of Gur 🙂
  * **Machine Learning for Programming Language Processing**
      * Computer Science Department, Technion, 2021
      * Awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
-     * [[PDF]](https://zenodo.org/record/6730561/files/thesis.pdf){:target="_blank"}
+     * [[PDF]](https://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2021/PHD/PHD-2021-10.pdf){:target="_blank"}
 
 ## Technical Reports
 
