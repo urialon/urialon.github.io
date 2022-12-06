@@ -63,27 +63,17 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-**_November 2022_** - a new preprint: [PaL: Program-aided Language Models](#pal)
-
-**_October 2022_** - Our paper [Language Models of Code are Few-Shot Commonsense Learners](#cocogen) was accepted to EMNLP'2022!
-
-**_September 2022_** - We released a new repository for evaluation of code generation: [code-bert-score](https://github.com/neulab/code-bert-score){:target="_blank"}, along with pretrained models of several programming languages, based on CodeBERT.
-
-**_August 2022_** - a new preprint: [`DocPrompting`: Generating Code by Retrieving the Docs](#doccoder)
-
-**_July 2022_** - I released a new HuggingFace 🤗 `transformers` implementation of [RetoMaton](#retomaton), kNN-language models and kNN-machine translation: [https://github.com/neulab/knn-transformers](https://github.com/neulab/knn-transformers){:target="_blank"}
-
-**_June 2022_** - I was selected for the [ACM SIGPLAN Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
-
-**_May 2022_** - Our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
-
-**_April 2022_** - Our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/){:target="_blank"} and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022){:target="_blank"} workshops.
-
-**_March 2022_** - A new preprint: [A Systematic Evaluation of Large Language Models of Code](#polycoder)
-
-**_February 2022_** - A new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](#retomaton)
-
-**_January 2022_** - Our paper [How Attentive are Graph Attention Networks?](#attentive) was accepted to ICLR'2022! 
+* **_November 2022_** - a new preprint: [PaL: Program-aided Language Models](#pal)
+* **_October 2022_** - Our paper [Language Models of Code are Few-Shot Commonsense Learners](#cocogen) was accepted to EMNLP'2022!
+* **_September 2022_** - We released a new repository for evaluation of code generation: [code-bert-score](https://github.com/neulab/code-bert-score){:target="_blank"}, along with pretrained models of several programming languages, based on CodeBERT.
+* **_August 2022_** - a new preprint: [`DocPrompting`: Generating Code by Retrieving the Docs](#doccoder)
+* **_July 2022_** - I released a new HuggingFace 🤗 `transformers` implementation of [RetoMaton](#retomaton), kNN-language models and kNN-machine translation: [https://github.com/neulab/knn-transformers](https://github.com/neulab/knn-transformers){:target="_blank"}
+* **_June 2022_** - I was selected for the [ACM SIGPLAN Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")!
+* **_May 2022_** - Our [RetoMaton](#retomaton) paper was accepted to ICML'2022!
+* **_April 2022_** - Our [PolyCoder](#polycoder) paper will appear in ICLR 2022's [DL4Code](https://dl4c.github.io/papers/){:target="_blank"} and PLDI 2022's [MAPS](https://pldi22.sigplan.org/home/maps-2022){:target="_blank"} workshops.
+* **_March 2022_** - A new preprint: [A Systematic Evaluation of Large Language Models of Code](#polycoder)
+* **_February 2022_** - A new preprint: [Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval](#retomaton)
+* **_January 2022_** - Our paper [How Attentive are Graph Attention Networks?](#attentive) was accepted to ICLR'2022! 
 
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
