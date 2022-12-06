@@ -92,7 +92,7 @@ I am happily married to Lee and father of Gur 🙂
 ## Accepted Papers
 * **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen"}
     * Aman Madaan, Shuyan Zhou, **Uri Alon**, Yiming Yang, Graham Neubig
-    * To appear in **_EMNLP'2022_**
+    * Appeared in **_EMNLP'2022_**
     * [[PDF]](https://arxiv.org/pdf/2210.07128.pdf){:target="_blank"} [[Code]](https://github.com/madaan/CoCoGen){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1583100368237449216?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/bAQW3kuC){:target="_blank"}
 
 * **Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval**{:id="retomaton"} (RetoMaton)
