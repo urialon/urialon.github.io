@@ -45,6 +45,7 @@ feature_row3:
     btn_class: "btn--primary"
     tags: 
         - AnyCodeGen
+
 ---
 
 I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"}, and a member of [NeuLab](https://www.cs.cmu.edu/~neulab/){:target="_blank"}.
@@ -63,6 +64,8 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_December 2022_** - A [new demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"} for [PAL](#pal)!
+* **_December 2022_** - I was invited to the [explAInable podcast](https://explainable.podbean.com/e/%d7%99%d7%a6%d7%99%d7%a8%d7%94%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99%d7%aa%d7%a9%d7%9c-%d7%a7%d7%95%d7%93-%d7%a2%d7%9d%d7%a4%d7%a8%d7%95%d7%a4/){:target="_blank"} (Hebrew only)
 * **_November 2022_** - a new preprint: [PaL: Program-aided Language Models](#pal)
 * **_October 2022_** - Our paper [Language Models of Code are Few-Shot Commonsense Learners](#cocogen) was accepted to EMNLP'2022!
 * **_September 2022_** - We released a new repository for evaluation of code generation: [code-bert-score](https://github.com/neulab/code-bert-score){:target="_blank"}, along with pretrained models of several programming languages, based on CodeBERT.
@@ -80,14 +83,15 @@ I am happily married to Lee and father of Gur 🙂
 
 ## Preprints
 * **PaL: Program-aided Language Models**{:id="pal"}
-    * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig    
+    * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
+    * Online demo: [https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
     [[Code]](http://reasonwithpal.com/){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1594714720468144129?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/76dwPn3V){:target="_blank"}
 
 * **`DocPrompting`: Generating Code by Retrieving the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
-    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code (under construction)]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://github.com/shuyanzhou/doccoder#citation){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://github.com/shuyanzhou/doccoder#citation){:target="_blank"}
 
 ## Accepted Papers
 * **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen"}
@@ -205,14 +209,17 @@ I am happily married to Lee and father of Gur 🙂
 ---
 # Demos
 
-{% include feature_row id="feature_row1" type="left" %}
-<a name="code2vec"></a> 
+
+{% include feature_row id="feature_row3" type="left" %}
+<a name="AnyCodeGen"></a> 
 
 {% include feature_row id="feature_row2" type="left" %}
 <a name="code2seq"></a> 
 
-{% include feature_row id="feature_row3" type="left" %}
-<a name="AnyCodeGen"></a> 
+{% include feature_row id="feature_row1" type="left" %}
+<a name="code2vec"></a> 
+
+
 
 ---
 # Service
