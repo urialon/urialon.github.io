@@ -84,7 +84,7 @@ I am happily married to Lee and father of Gur 🙂
 
 ## Preprints
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
-    * Frank F. Xu, **Uri Alon**, Graham Neubig    
+    * Frank F. Xu, **Uri Alon**, Graham Neubig  
     * [[PDF]](https://arxiv.org/pdf/2301.02828.pdf){:target="_blank"} [[Code]](https://github.com/frankxu2004/knnlm-why){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1612817186678083585?s=20&t=srvqJDMrLcB1_Zzdm0-5pA){:target="_blank"}
 
 * **PaL: Program-aided Language Models**{:id="pal"}
