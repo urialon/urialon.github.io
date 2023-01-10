@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_January 2023_** - a new preprint: [Why do Nearest Neighbor Language Models Work?](#knnwhy)
 * **_December 2022_** - A [new demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"} for [PAL](#pal)!
 * **_December 2022_** - I was invited to the [explAInable podcast](https://explainable.podbean.com/e/%d7%99%d7%a6%d7%99%d7%a8%d7%94%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99%d7%aa%d7%a9%d7%9c-%d7%a7%d7%95%d7%93-%d7%a2%d7%9d%d7%a4%d7%a8%d7%95%d7%a4/){:target="_blank"} (Hebrew only)
 * **_November 2022_** - a new preprint: [PaL: Program-aided Language Models](#pal)
@@ -82,6 +83,10 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
+* **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
+    * Frank F. Xu, **Uri Alon**, Graham Neubig    
+    * [[PDF]](https://arxiv.org/pdf/2301.02828.pdf){:target="_blank"} [[Code]](https://github.com/frankxu2004/knnlm-why){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1612817186678083585?s=20&t=srvqJDMrLcB1_Zzdm0-5pA){:target="_blank"}
+
 * **PaL: Program-aided Language Models**{:id="pal"}
     * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
     * Online demo: [https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"}
