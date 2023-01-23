@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_January 2023_** - Our [DocPrompting](#doccoder) paper was accepted to ICLR'2023 as a **Spotlight**!
 * **_January 2023_** - a new preprint: [Why do Nearest Neighbor Language Models Work?](#knnwhy)
 * **_December 2022_** - A [new demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"} for [PAL](#pal)!
 * **_December 2022_** - I was invited to the [explAInable podcast](https://explainable.podbean.com/e/%d7%99%d7%a6%d7%99%d7%a8%d7%94%d7%90%d7%95%d7%98%d7%95%d7%9e%d7%98%d7%99%d7%aa%d7%a9%d7%9c-%d7%a7%d7%95%d7%93-%d7%a2%d7%9d%d7%a4%d7%a8%d7%95%d7%a4/){:target="_blank"} (Hebrew)
@@ -228,8 +229,8 @@ I am happily married to Lee and father of Gur 🙂
 
 ---
 # Service
-* Reviewer: NeurIPS '2022 (**Outstanding Reviewer**), TMLR, ICML'2022 (**Outstanding Reviewer - top 10%**), ICLR'2022 (**Highlighted Reviewer**), AIPLANS NeurIPS 2021 workshop, ICML’2021 (**top 10% Best Reviewers**), ICLR’2021, NeurIPS’2020, ICLR’2020
-* Program Committee: MAPS 2022, Deep Learning for Code ICLR'22 workshop, PLDI’2021, NeurIPS’2020 CAP workshop, AIDM’20, AIDM’19
+* Reviewer: ICLR'2023, NeurIPS '2022 (**Outstanding Reviewer**), TMLR, ICML'2022 (**Outstanding Reviewer - top 10%**), ICLR'2022 (**Highlighted Reviewer**), AIPLANS NeurIPS 2021 workshop, ICML’2021 (**top 10% Best Reviewers**), ICLR’2021, NeurIPS’2020, ICLR’2020
+* Program Committee: MAPS'2022, Deep Learning for Code ICLR'22 workshop, PLDI’2021, NeurIPS’2020 CAP workshop, AIDM’20, AIDM’19
 * Area Chair: Learning on Graphs '2022
 
 
