@@ -94,12 +94,14 @@ I am happily married to Lee and father of Gur 🙂
     * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
     [[Code]](http://reasonwithpal.com/){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1594714720468144129?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/76dwPn3V){:target="_blank"}
 
+
+## Accepted Papers
 * **`DocPrompting`: Generating Code by Retrieving the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
-    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://github.com/shuyanzhou/doccoder#citation){:target="_blank"}
+    * To appear in **_ICLR'2023_**
+    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://pastebin.com/raw/nyrb6M7b){:target="_blank"}
 
-## Accepted Papers
 * **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen"}
     * Aman Madaan, Shuyan Zhou, **Uri Alon**, Yiming Yang, Graham Neubig
     * Appeared in **_EMNLP'2022_**
