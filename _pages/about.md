@@ -48,11 +48,11 @@ feature_row3:
 
 ---
 
-I am a post-doc at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"}, and a member of [NeuLab](https://www.cs.cmu.edu/~neulab/){:target="_blank"}.
+I am a postdocoral researcher at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"}, a member of [NeuLab](https://www.cs.cmu.edu/~neulab/){:target="_blank"}, and a [Rothschild Fellow](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}.
 
 My research interests are broad and include programming language processing (PLP), natural language processing (NLP) and deep learning in general.
 
-I obtained a PhD in the department of Computer Science at the Technion, advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}.
+I obtained my PhD in the department of Computer Science at the Technion, where I was fortunate to be advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}. My PhD dissertation has awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award").
 
 Previously, I served 7 years as an officer onboard a missile ship in the Israeli Navy.
 Later, I completed my BSc _summa cum laude_ at the Computer Science Department at the Technion, as an alumnus of The Rothschild-Technion Scholars Program for Excellence. 
