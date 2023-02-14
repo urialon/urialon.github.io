@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_February 2023_** - a new preprint: [CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code](#cbs)
 * **_January 2023_** - Our [DocPrompting](#doccoder) paper was accepted to ICLR'2023 as a **Spotlight**!
 * **_January 2023_** - a new preprint: [Why do Nearest Neighbor Language Models Work?](#knnwhy)
 * **_December 2022_** - A [new demo](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"} for [PAL](#pal)!
@@ -84,6 +85,11 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
+* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
+    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
+    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model)
+
+
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
     * [[PDF]](https://arxiv.org/pdf/2301.02828.pdf){:target="_blank"} [[Code]](https://github.com/frankxu2004/knnlm-why){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1612817186678083585?s=20&t=srvqJDMrLcB1_Zzdm0-5pA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}
