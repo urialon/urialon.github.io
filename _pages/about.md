@@ -87,7 +87,7 @@ I am happily married to Lee and father of Gur 🙂
 ## Preprints
 * **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
     * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
-    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model)
+    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
 
 
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
@@ -98,7 +98,7 @@ I am happily married to Lee and father of Gur 🙂
     * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
     * Online demo: [https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
-    [[Code]](http://reasonwithpal.com/){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1594714720468144129?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/76dwPn3V){:target="_blank"}
+    [[Code]](https://github.com/reasoning-machines/pal/){:target="_blank"} [[Website]](http://reasonwithpal.com/){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1594714720468144129?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/76dwPn3V){:target="_blank"}
 
 
 ## Accepted Papers
