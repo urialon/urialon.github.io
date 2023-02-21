@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_February 2023_** - a new preprint: [Learning Performance-Improving Code Edits](#pie)
 * **_February 2023_** - a new preprint: [CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code](#cbs)
 * **_January 2023_** - Our [DocPrompting](#doccoder) paper was accepted to ICLR'2023 as a **Spotlight**!
 * **_January 2023_** - a new preprint: [Why do Nearest Neighbor Language Models Work?](#knnwhy)
@@ -85,6 +86,10 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
+* **Learning Performance-Improving Code Edits**{:id="pie"}
+    * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
+    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/) [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
+
 * **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
     * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
     * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
