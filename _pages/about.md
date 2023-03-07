@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_March 2023_** - [Learning Performance-Improving Code Edits](#pie) and [CodeBERTScore](#cbs) will appear in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} ICLR'2023 workshop ([CodeBERTScore](#cbs) as a **Spotlight**!)
 * **_February 2023_** - a new preprint: [Learning Performance-Improving Code Edits](#pie)
 * **_February 2023_** - a new preprint: [CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code](#cbs)
 * **_January 2023_** - Our [DocPrompting](#doccoder) paper was accepted to ICLR'2023 as a **Spotlight**!
@@ -86,15 +87,6 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
-* **Learning Performance-Improving Code Edits**{:id="pie"}
-    * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
-    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/) [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
-
-* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
-    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
-    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
-
-
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
     * [[PDF]](https://arxiv.org/pdf/2301.02828.pdf){:target="_blank"} [[Code]](https://github.com/frankxu2004/knnlm-why){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1612817186678083585?s=20&t=srvqJDMrLcB1_Zzdm0-5pA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}
@@ -185,21 +177,19 @@ I am happily married to Lee and father of Gur 🙂
     * Appeared in **_PLDI’2018_**
     * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/w03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
 
-## PhD Thesis
- * **Machine Learning for Programming Language Processing**
-     * Computer Science Department, Technion, 2021
-     * Awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
-     * [[PDF]](https://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2021/PHD/PHD-2021-10.pdf){:target="_blank"}
-
-## Technical Reports
-
-
-* **Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling**
-    * Jonathan Shen, ..., **Uri Alon**, ...
-    * [[PDF]](https://arxiv.org/pdf/1902.08295.pdf){:target="_blank"}
 
 
 ## Workshops
+* **Learning Performance-Improving Code Edits**{:id="pie"}
+    * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
+    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop    
+    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/) [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
+
+* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
+    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
+    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
+    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
+
 * **A Systematic Evaluation of Large Language Models of Code**{:id="polycoder"} (PolyCoder)
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
     * Appeared in [MAPS'2022](https://pldi22.sigplan.org/details/maps-2022-papers/1/A-Systematic-Evaluation-of-Large-Language-Models-of-Code){:target="_blank"}
@@ -212,6 +202,19 @@ I am happily married to Lee and father of Gur 🙂
     * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
     * DLG-KDD'2021 [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"} [[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
       
+
+## PhD Thesis
+ * **Machine Learning for Programming Language Processing**
+     * Computer Science Department, Technion, 2021
+     * Awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
+     * [[PDF]](https://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2021/PHD/PHD-2021-10.pdf){:target="_blank"}
+
+## Technical Reports
+
+* **Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling**
+    * Jonathan Shen, ..., **Uri Alon**, ...
+    * [[PDF]](https://arxiv.org/pdf/1902.08295.pdf){:target="_blank"}
+
 
 ---
 # Awards
