@@ -64,7 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-* **_March 2023_** - [Learning Performance-Improving Code Edits](#pie) and [CodeBERTScore](#cbs) will appear in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} ICLR'2023 workshop ([CodeBERTScore](#cbs) as a **Spotlight**!)
+* **_March 2023_** - [Learning Performance-Improving Code Edits](#pie) and [CodeBERTScore](#cbs) (**Spotlight**!) will appear in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} ICLR'2023 workshop
 * **_February 2023_** - a new preprint: [Learning Performance-Improving Code Edits](#pie)
 * **_February 2023_** - a new preprint: [CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code](#cbs)
 * **_January 2023_** - Our [DocPrompting](#doccoder) paper was accepted to ICLR'2023 as a **Spotlight**!
