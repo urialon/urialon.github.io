@@ -87,6 +87,12 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
+* **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
+    * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
+    * Online demo: [https://self-refine-webgen.herokuapp.com/](https://self-refine-webgen.herokuapp.com/){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2303.17651.pdf){:target="_blank"} 
+    [[Code]](https://github.com/madaan/self-refine){:target="_blank"} [[Website]](https://selfrefine.info){:target="_blank"} [[Tweet]](https://twitter.com/johnjnay/status/1642704826776559617?s=20){:target="_blank"} [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
+
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
     * [[PDF]](https://arxiv.org/pdf/2301.02828.pdf){:target="_blank"} [[Code]](https://github.com/frankxu2004/knnlm-why){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1612817186678083585?s=20&t=srvqJDMrLcB1_Zzdm0-5pA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}
@@ -104,7 +110,7 @@ I am happily married to Lee and father of Gur 🙂
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
     * To appear in **_ICLR'2023_** (<span style="color:red">**Spotlight**</span>)
     * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/02/25/cmu-researchers-propose-docprompting-a-natural-language-to-code-generation-approach-by-retrieving-code-documentation/){:target="_blank"} [[Medium]](https://medium.com/syncedreview/cmu-inspired-cognitions-docprompting-improves-code-generation-by-retrieving-relevant-4bc72992130d){:target="_blank"} [[Prophet-Con]](https://prophetcon.com/2023/02/25/cmu-researchers-propose-docprompting-a-natural-language-to-code-generation-approach-by-retrieving-code-documentation/){:target="_blank"} [[Synched]](https://syncedreview.com/2023/02/28/cmu-inspired-cognitions-docprompting-improves-code-generation-by-retrieving-relevant-documentation/){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://pastebin.com/raw/nyrb6M7b){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://pastebin.com/raw/Jes96jqS){:target="_blank"}
 
 
 * **Language Models of Code are Few-Shot Commonsense Learners**{:id="cocogen"}
