@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_April 2023_** - a new preprint: [Self-Refine: Iterative Refinement with Self-Feedback](#selfrefine)
 * **_March 2023_** - [Learning Performance-Improving Code Edits](#pie) and [CodeBERTScore](#cbs) (**Spotlight**!) will appear in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} ICLR'2023 workshop
 * **_February 2023_** - a new preprint: [Learning Performance-Improving Code Edits](#pie)
 * **_February 2023_** - a new preprint: [CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code](#cbs)
@@ -90,8 +91,20 @@ I am happily married to Lee and father of Gur 🙂
 * **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
     * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
     * Online demo: [https://self-refine-webgen.herokuapp.com/](https://self-refine-webgen.herokuapp.com/){:target="_blank"}
+    * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/){:target="_blank"} [[Medium]](https://kargarisaac.medium.com/self-refine-a-new-milestone-in-the-ai-era-ac51568873da?source=topics_v2---------5-84--------------------fda4d9ef_ad4f_488d_9028_248a261e661a-------17){:target="_blank"} [[EmergentMind]](https://www.emergentmind.com/posts/self-refine-iterative-refinement-with-self-feedback){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2303.17651.pdf){:target="_blank"} 
     [[Code]](https://github.com/madaan/self-refine){:target="_blank"} [[Website]](https://selfrefine.info){:target="_blank"} [[Tweet]](https://twitter.com/johnjnay/status/1642704826776559617?s=20){:target="_blank"} [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
+
+* **Learning Performance-Improving Code Edits**{:id="pie"}
+    * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
+    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop    
+    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/) [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
+
+* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
+    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
+    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
+    * Press: [[Non-Brand Data]]https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
 
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
@@ -186,15 +199,7 @@ I am happily married to Lee and father of Gur 🙂
 
 
 ## Workshops
-* **Learning Performance-Improving Code Edits**{:id="pie"}
-    * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
-    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop    
-    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/) [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
 
-* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
-    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
-    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
-    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
 
 * **A Systematic Evaluation of Large Language Models of Code**{:id="polycoder"} (PolyCoder)
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
