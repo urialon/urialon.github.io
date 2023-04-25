@@ -52,7 +52,7 @@ I am a postdocoral researcher at the Language Technologies Institute (LTI) of Ca
 
 <!-- My research interests are broad and include programming language processing (PLP), natural language processing (NLP) and deep learning in general. -->
 
-I obtained my PhD in the department of Computer Science at the Technion, where I was fortunate to be advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}. My PhD dissertation has awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award").
+I obtained my PhD in the department of Computer Science at the Technion, where I was fortunate to be advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}. My PhD dissertation has been awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award").
 
 Previously, I served 7 years as an officer onboard a missile ship in the Israeli Navy.
 Later, I completed my BSc _summa cum laude_ at the Computer Science Department at the Technion, as an alumnus of The Rothschild-Technion Scholars Program for Excellence. 
