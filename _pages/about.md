@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **April 2022_** - [PAL](#pal) and [Why do kNN-LMs Work?](#knnwhy) were were accepted to ICML'2023! 
 * **_April 2023_** - a new preprint: [Self-Refine: Iterative Refinement with Self-Feedback](#selfrefine)
 * **_March 2023_** - [Learning Performance-Improving Code Edits](#pie) and [CodeBERTScore](#cbs) (**Spotlight**!) will appear in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} ICLR'2023 workshop
 * **_February 2023_** - a new preprint: [Learning Performance-Improving Code Edits](#pie)
@@ -106,18 +107,20 @@ I am happily married to Lee and father of Gur 🙂
     * Press: [[Non-Brand Data]]https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
 
+
+## Accepted Papers
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
+    * To appear in **_ICML'2023_**
     * [[PDF]](https://arxiv.org/pdf/2301.02828.pdf){:target="_blank"} [[Code]](https://github.com/frankxu2004/knnlm-why){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1612817186678083585?s=20&t=srvqJDMrLcB1_Zzdm0-5pA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}
 
 * **PaL: Program-aided Language Models**{:id="pal"}
     * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
+    * To appear in **_ICML'2023_**
     * Online demo: [https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
     [[Code]](https://github.com/reasoning-machines/pal/){:target="_blank"} [[Website]](http://reasonwithpal.com/){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1594714720468144129?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/76dwPn3V){:target="_blank"}
 
-
-## Accepted Papers
 * **`DocPrompting`: Generating Code by Retrieving the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
