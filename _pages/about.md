@@ -64,6 +64,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_May 2023_** - A new paper: [On the Expressivity Role of LayerNorm in Transformers’ Attention](#layernorm) was accepted to Findings of the ACL'2023!
 * **_May 2023_** - a new preprint: [Unlimiformer: Long-Range Transformers with Unlimited Length Input](#unlimiformer)
 * **_April 2022_** - [PAL: Program-aided Language Models](#pal) and [Why do kNN-LMs Work?](#knnwhy) were were accepted to ICML'2023! 
 * **_April 2023_** - a new preprint: [Self-Refine: Iterative Refinement with Self-Feedback](#selfrefine)
@@ -95,7 +96,9 @@ I am happily married to Lee and father of Gur 🙂
     * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2305.01625.pdf){:target="_blank"} 
     [[Code]](https://github.com/abertsch72/unlimiformer){:target="_blank"}
-    [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
+    [[Tweet]](https://twitter.com/abertsch72/status/1654110919977324545?s=20){:target="_blank"} 
+    
+    <!--[[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}-->
 
 * **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
     * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
@@ -117,6 +120,13 @@ I am happily married to Lee and father of Gur 🙂
 
 
 ## Accepted Papers
+* **On the Expressivity Role of LayerNorm in Transformers’ Attention**{:id="layernorm"}
+    * Shaked Brody, **Uri Alon**, Eran Yahhav
+    * To appear in **_Findings of ACL'2023_**
+    * [[PDF]](https://arxiv.org/pdf/2305.02582){:target="_blank"} [[Code]](https://t.co/cfIEOT8fh3){:target="_blank"} [[Tweet]](https://twitter.com/shakedbr/status/1654449044851159040?s=20){:target="_blank"} 
+    
+    <!--[[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}-->
+
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
     * To appear in **_ICML'2023_**
