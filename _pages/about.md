@@ -97,9 +97,7 @@ I am happily married to Lee and father of Gur 🙂
     * [[PDF]](https://arxiv.org/pdf/2305.01625.pdf){:target="_blank"} 
     [[Code]](https://github.com/abertsch72/unlimiformer){:target="_blank"}
     [[Tweet]](https://twitter.com/abertsch72/status/1654110919977324545?s=20){:target="_blank"} 
-    
     <!--[[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}-->
-
 * **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
     * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
     * Online demo: [https://self-refine-webgen.herokuapp.com/](https://self-refine-webgen.herokuapp.com/){:target="_blank"}
@@ -115,7 +113,7 @@ I am happily married to Lee and father of Gur 🙂
 * **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
     * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
     * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
-    * Press: [[Non-Brand Data]]https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
+    * Press: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
 
 
@@ -124,9 +122,7 @@ I am happily married to Lee and father of Gur 🙂
     * Shaked Brody, **Uri Alon**, Eran Yahhav
     * To appear in **_Findings of ACL'2023_**
     * [[PDF]](https://arxiv.org/pdf/2305.02582){:target="_blank"} [[Code]](https://t.co/cfIEOT8fh3){:target="_blank"} [[Tweet]](https://twitter.com/shakedbr/status/1654449044851159040?s=20){:target="_blank"} 
-    
     <!--[[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}-->
-
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
     * To appear in **_ICML'2023_**
