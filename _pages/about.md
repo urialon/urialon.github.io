@@ -92,6 +92,7 @@ I am happily married to Lee and father of Gur 🙂
 ## Preprints
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**{:id="unlimiformer"}
     * Amanda Bertsch, **Uri Alon**, Graham Neubig, Matthew R. Gormley
+    * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2305.01625.pdf){:target="_blank"} 
     [[Code]](https://github.com/abertsch72/unlimiformer){:target="_blank"}
     [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
