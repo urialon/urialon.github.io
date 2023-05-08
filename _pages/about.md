@@ -66,7 +66,7 @@ I am happily married to Lee and father of Gur 🙂
 ### News
 * **_May 2023_** - A new paper: [On the Expressivity Role of LayerNorm in Transformers’ Attention](#layernorm) was accepted to Findings of the ACL'2023!
 * **_May 2023_** - a new preprint: [Unlimiformer: Long-Range Transformers with Unlimited Length Input](#unlimiformer)
-* **_April 2022_** - [PAL: Program-aided Language Models](#pal) and [Why do kNN-LMs Work?](#knnwhy) were were accepted to ICML'2023! 
+* **_April 2022_** - [PAL: Program-aided Language Models](#pal) and [Why do kNN-LMs Work?](#knnwhy) were accepted to ICML'2023! 
 * **_April 2023_** - a new preprint: [Self-Refine: Iterative Refinement with Self-Feedback](#selfrefine)
 * **_March 2023_** - [Learning Performance-Improving Code Edits](#pie) and [CodeBERTScore](#cbs) (**Spotlight**!) will appear in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} ICLR'2023 workshop
 * **_February 2023_** - a new preprint: [Learning Performance-Improving Code Edits](#pie)
@@ -93,11 +93,11 @@ I am happily married to Lee and father of Gur 🙂
 ## Preprints
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**{:id="unlimiformer"}
     * Amanda Bertsch, **Uri Alon**, Graham Neubig, Matthew R. Gormley
-    * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"}
+    * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2023/05/07/cmu-researchers-introduce-unlimiformer-an-ai-method-for-augmenting-pretrained-encoder-decoders-with-an-external-datastore-to-allow-for-unlimited-length-input/){:target="_blank"} [[Medium]](https://medium.com/techciting/techciting-issue-2-may-7-2023-c3b02e606068){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2305.01625.pdf){:target="_blank"} 
     [[Code]](https://github.com/abertsch72/unlimiformer){:target="_blank"}
     [[Tweet]](https://twitter.com/abertsch72/status/1654110919977324545?s=20){:target="_blank"} 
-    <!--[[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}-->
+    [[BibTex]](https://pastebin.com/raw/tHgJ6AhF){:target="_blank"}
 * **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
     * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
     * Online demo: [https://self-refine-webgen.herokuapp.com/](https://self-refine-webgen.herokuapp.com/){:target="_blank"}
@@ -119,7 +119,7 @@ I am happily married to Lee and father of Gur 🙂
 
 ## Accepted Papers
 * **On the Expressivity Role of LayerNorm in Transformers’ Attention**{:id="layernorm"}
-    * Shaked Brody, **Uri Alon**, Eran Yahhav
+    * Shaked Brody, **Uri Alon**, Eran Yahav
     * To appear in **_Findings of ACL'2023_**
     * [[PDF]](https://arxiv.org/pdf/2305.02582){:target="_blank"} [[Code]](https://t.co/cfIEOT8fh3){:target="_blank"} [[Tweet]](https://twitter.com/shakedbr/status/1654449044851159040?s=20){:target="_blank"} 
     <!--[[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}-->
