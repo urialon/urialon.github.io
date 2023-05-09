@@ -122,7 +122,7 @@ I am happily married to Lee and father of Gur 🙂
     * Shaked Brody, **Uri Alon**, Eran Yahav
     * To appear in **_Findings of ACL'2023_**
     * [[PDF]](https://arxiv.org/pdf/2305.02582){:target="_blank"} [[Code]](https://t.co/cfIEOT8fh3){:target="_blank"} [[Tweet]](https://twitter.com/shakedbr/status/1654449044851159040?s=20){:target="_blank"} 
-    <!--[[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}-->
+    [[BibTex]](https://pastebin.com/raw/xFYce3Vt){:target="_blank"}
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
     * To appear in **_ICML'2023_**
