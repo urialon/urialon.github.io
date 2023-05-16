@@ -93,7 +93,7 @@ I am happily married to Lee and father of Gur 🙂
 ## Preprints
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**{:id="unlimiformer"}
     * Amanda Bertsch, **Uri Alon**, Graham Neubig, Matthew R. Gormley
-    * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2023/05/07/cmu-researchers-introduce-unlimiformer-an-ai-method-for-augmenting-pretrained-encoder-decoders-with-an-external-datastore-to-allow-for-unlimited-length-input/){:target="_blank"} [[Medium]](https://medium.com/techciting/techciting-issue-2-may-7-2023-c3b02e606068){:target="_blank"} 
+    * Media: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2023/05/07/cmu-researchers-introduce-unlimiformer-an-ai-method-for-augmenting-pretrained-encoder-decoders-with-an-external-datastore-to-allow-for-unlimited-length-input/){:target="_blank"} [[Medium]](https://medium.com/techciting/techciting-issue-2-may-7-2023-c3b02e606068){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2305.01625.pdf){:target="_blank"} 
     [[Code]](https://github.com/abertsch72/unlimiformer){:target="_blank"}
     [[Tweet]](https://twitter.com/abertsch72/status/1654110919977324545?s=20){:target="_blank"} 
@@ -101,7 +101,7 @@ I am happily married to Lee and father of Gur 🙂
 * **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
     * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
     * Online demo: [https://self-refine-webgen.herokuapp.com/](https://self-refine-webgen.herokuapp.com/){:target="_blank"}
-    * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/){:target="_blank"} [[Medium]](https://kargarisaac.medium.com/self-refine-a-new-milestone-in-the-ai-era-ac51568873da?source=topics_v2---------5-84--------------------fda4d9ef_ad4f_488d_9028_248a261e661a-------17){:target="_blank"} [[EmergentMind]](https://www.emergentmind.com/posts/self-refine-iterative-refinement-with-self-feedback){:target="_blank"} 
+    * Media: [[MarkTechPost]](https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/){:target="_blank"} [[Medium]](https://kargarisaac.medium.com/self-refine-a-new-milestone-in-the-ai-era-ac51568873da?source=topics_v2---------5-84--------------------fda4d9ef_ad4f_488d_9028_248a261e661a-------17){:target="_blank"} [[EmergentMind]](https://www.emergentmind.com/posts/self-refine-iterative-refinement-with-self-feedback){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2303.17651.pdf){:target="_blank"} 
     [[Code]](https://github.com/madaan/self-refine){:target="_blank"} [[Website]](https://selfrefine.info){:target="_blank"} [[Tweet]](https://twitter.com/johnjnay/status/1642704826776559617?s=20){:target="_blank"} [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
 
@@ -113,7 +113,7 @@ I am happily married to Lee and father of Gur 🙂
 * **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
     * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
     * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
-    * Press: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
+    * Media: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
 
 
@@ -121,6 +121,7 @@ I am happily married to Lee and father of Gur 🙂
 * **On the Expressivity Role of LayerNorm in Transformers’ Attention**{:id="layernorm"}
     * Shaked Brody, **Uri Alon**, Eran Yahav
     * To appear in **_Findings of ACL'2023_**
+    * Media: [[Medium]](https://lessw.medium.com/what-layernorm-really-does-for-attention-in-transformers-4901ea6d890e#:~:text=A%20%E2%80%94%20Projection%3A%20LayerNorm%20helps%20the,be%20orthogonal%20to%20the%20queries){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2305.02582){:target="_blank"} [[Code]](https://t.co/cfIEOT8fh3){:target="_blank"} [[Tweet]](https://twitter.com/shakedbr/status/1654449044851159040?s=20){:target="_blank"} 
     [[BibTex]](https://pastebin.com/raw/xFYce3Vt){:target="_blank"}
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
@@ -138,8 +139,8 @@ I am happily married to Lee and father of Gur 🙂
 * **`DocPrompting`: Generating Code by Retrieving the Docs**{:id="doccoder"}
     * Shuyan Zhou
 , **Uri Alon**, Frank F. Xu, Zhengbao Jiang, Graham Neubig    
-    * To appear in **_ICLR'2023_** (<span style="color:red">**Spotlight**</span>)
-    * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/02/25/cmu-researchers-propose-docprompting-a-natural-language-to-code-generation-approach-by-retrieving-code-documentation/){:target="_blank"} [[Medium]](https://medium.com/syncedreview/cmu-inspired-cognitions-docprompting-improves-code-generation-by-retrieving-relevant-4bc72992130d){:target="_blank"} [[Prophet-Con]](https://prophetcon.com/2023/02/25/cmu-researchers-propose-docprompting-a-natural-language-to-code-generation-approach-by-retrieving-code-documentation/){:target="_blank"} [[Synched]](https://syncedreview.com/2023/02/28/cmu-inspired-cognitions-docprompting-improves-code-generation-by-retrieving-relevant-documentation/){:target="_blank"}
+    * Appeared in **_ICLR'2023_** (<span style="color:red">**Spotlight**</span>)
+    * Media: [[MarkTechPost]](https://www.marktechpost.com/2023/02/25/cmu-researchers-propose-docprompting-a-natural-language-to-code-generation-approach-by-retrieving-code-documentation/){:target="_blank"} [[Medium]](https://medium.com/syncedreview/cmu-inspired-cognitions-docprompting-improves-code-generation-by-retrieving-relevant-4bc72992130d){:target="_blank"} [[Prophet-Con]](https://prophetcon.com/2023/02/25/cmu-researchers-propose-docprompting-a-natural-language-to-code-generation-approach-by-retrieving-code-documentation/){:target="_blank"} [[Synched]](https://syncedreview.com/2023/02/28/cmu-inspired-cognitions-docprompting-improves-code-generation-by-retrieving-relevant-documentation/){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2207.05987.pdf){:target="_blank"} [[Code]](https://github.com/shuyanzhou/doccoder){:target="_blank"} [[BibTex]](https://pastebin.com/raw/Jes96jqS){:target="_blank"}
 
 
@@ -222,7 +223,7 @@ I am happily married to Lee and father of Gur 🙂
     * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
     * Appeared in [MAPS'2022](https://pldi22.sigplan.org/details/maps-2022-papers/1/A-Systematic-Evaluation-of-Large-Language-Models-of-Code){:target="_blank"}
     * Appeared in [Deep Learning for Code](https://openreview.net/forum?id=SLcEnoObJZq){:target="_blank"}, ICLR'2022 workshop
-    * Press: [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
+    * Media: [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2202.13169){:target="_blank"} [[Code]](https://github.com/VHellendoorn/Code-LMs){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ZeNXqKUx){:target="_blank"}
     * Huggingface🤗 model: [NinedayWang/PolyCoder-2.7B](https://huggingface.co/NinedayWang/PolyCoder-2.7B){:target="_blank"}
 
