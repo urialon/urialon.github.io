@@ -132,6 +132,7 @@ I am happily married to Lee and father of Gur 🙂
 * **PAL: Program-aided Language Models**{:id="pal"}
     * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
     * To appear in **_ICML'2023_**
+    * Press: [[AI Trends 2023 Podcast]](https://twimlai.com/podcast/twimlai/ai-trends-2023-natural-language-proc-chatgpt-gpt-4-and-cutting-edge-research/){:target="_blank"} [[Medium]](https://cobusgreyling.medium.com/pal-program-aided-large-language-models-30db3e59f796){:target="_blank"} 
     * Online demo: [https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
     [[Code]](https://github.com/reasoning-machines/pal/){:target="_blank"} [[Website]](http://reasonwithpal.com/){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1594714720468144129?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/76dwPn3V){:target="_blank"}
