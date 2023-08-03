@@ -91,6 +91,13 @@ I am happily married to Lee and father of Gur 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
+* **WebArena: A Realistic Web Environment for Building Autonomous Agents**{:id="webarena"}
+    * Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, **Uri Alon**, Graham Neubig
+    * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/07/27/cmu-researchers-introduce-webarena-a-realistic-and-reproducible-web-environment-with-4-real-world-web-apps-for-benchmarking-useful-agents/){:target="_blank"} [[TS2]](https://ts2.space/en/training-autonomous-agents-new-research-introduces-webarena/){:target="_blank"} [[Towards AI]](https://pub.towardsai.net/unlimiformer-long-range-transformers-with-unlimited-length-input-3725f69b0d03){:target="_blank"} 
+    * [[PDF]](https://arxiv.org/pdf/2307.13854.pdf){:target="_blank"} 
+    [[Code]](https://github.com/web-arena-x/webarena){:target="_blank"} [[Website]](https://webarena.dev){:target="_blank"}
+    [[Tweet]](https://twitter.com/shuyanzhxyc/status/1683917253597855744?s=20){:target="_blank"} 
+    [[BibTex]](https://pastebin.com/raw/Uf0pup43){:target="_blank"}
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**{:id="unlimiformer"}
     * Amanda Bertsch, **Uri Alon**, Graham Neubig, Matthew R. Gormley
     * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2023/05/07/cmu-researchers-introduce-unlimiformer-an-ai-method-for-augmenting-pretrained-encoder-decoders-with-an-external-datastore-to-allow-for-unlimited-length-input/){:target="_blank"} [[Medium]](https://medium.com/techciting/techciting-issue-2-may-7-2023-c3b02e606068){:target="_blank"} [[Towards AI]](https://pub.towardsai.net/unlimiformer-long-range-transformers-with-unlimited-length-input-3725f69b0d03){:target="_blank"} 
@@ -108,7 +115,7 @@ I am happily married to Lee and father of Gur 🙂
 * **Learning Performance-Improving Code Edits**{:id="pie"}
     * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
     * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop    
-    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/) [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
 
 * **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
     * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
