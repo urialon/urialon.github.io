@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Uri Alon | Postdoctoral Researcher, Carnegie Mellon University"
+title                    : "Uri Alon | Senior Research Scientist, Google DeepMind"
 title_separator          : "|"
 name                     : &name "Uri Alon"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Uri Alon"
   avatar           : "UriAlon.jpg"
-  bio              : "Postdoctoral Researcher, <br>Language Technologies Institute, <br>Carnegie Mellon University"
+  bio              : "Senior Research Scientist, Google DeepMind"
   location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao"
-  email            : "ualon@cs.cmu.edu"
+  email            : "urialon@google.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
