@@ -50,7 +50,7 @@ feature_row3:
 
 I am a Senior Research Scientist at Google DeepMind.
 
-Prior to that, I was a postdocoral researcher at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"} and a [Rothschild Fellow](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}.
+Prior to that, I was a postdoctoral researcher at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"} and a [Rothschild Fellow](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}.
 <!-- My research interests are broad and include programming language processing (PLP), natural language processing (NLP) and deep learning in general. -->
 
 I obtained my PhD in the department of Computer Science at the Technion, where I was fortunate to be advised by [Prof. Eran Yahav](https://www.cs.technion.ac.il/~yahave/){:target="_blank"}. My PhD dissertation has been awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award").
