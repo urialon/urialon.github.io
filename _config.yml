@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Uri Alon | Senior Research Scientist, Google DeepMind"
+title                    : "Uri Alon | Research Scientist, Google DeepMind"
 title_separator          : "|"
 name                     : &name "Uri Alon"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Uri Alon"
   avatar           : "UriAlon.jpg"
-  bio              : "Senior Research Scientist, Google DeepMind"
+  bio              : "Research Scientist, Google DeepMind"
   location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           :
