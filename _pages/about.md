@@ -65,6 +65,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_August 2023_** - I moved from CMU to Google DeepMind [[Tweet]](https://twitter.com/urialon1/status/1694764062171709911?s=20){:target="_blank"}
 * **_May 2023_** - A new paper: [On the Expressivity Role of LayerNorm in Transformers’ Attention](#layernorm) was accepted to Findings of the ACL'2023!
 * **_May 2023_** - a new preprint: [Unlimiformer: Long-Range Transformers with Unlimited Length Input](#unlimiformer)
 * **_April 2022_** - [PAL: Program-aided Language Models](#pal) and [Why do kNN-LMs Work?](#knnwhy) were accepted to ICML'2023! 
