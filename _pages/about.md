@@ -48,7 +48,7 @@ feature_row3:
 
 ---
 
-I am a Senior Research Scientist at Google DeepMind.
+I am a senior research scientist at Google DeepMind.
 
 Prior to that, I was a postdoctoral researcher at the Language Technologies Institute (LTI) of Carnegie Mellon University, working with [Prof. Graham Neubig](https://www.phontron.com/){:target="_blank"} and a [Rothschild Fellow](https://issuu.com/dleventer/docs/fellows-2021_booklet_corr-4/12){:target="_blank"}.
 <!-- My research interests are broad and include programming language processing (PLP), natural language processing (NLP) and deep learning in general. -->
@@ -65,7 +65,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
-* **_August 2023_** - I moved from CMU to Google DeepMind [[Tweet]](https://twitter.com/urialon1/status/1694764062171709911?s=20){:target="_blank"}
+* **_August 2023_** - I left CMU and started as a research scientist at Google DeepMind [[Tweet]](https://twitter.com/urialon1/status/1694764062171709911?s=20){:target="_blank"}
 * **_May 2023_** - A new paper: [On the Expressivity Role of LayerNorm in Transformers’ Attention](#layernorm) was accepted to Findings of the ACL'2023!
 * **_May 2023_** - a new preprint: [Unlimiformer: Long-Range Transformers with Unlimited Length Input](#unlimiformer)
 * **_April 2022_** - [PAL: Program-aided Language Models](#pal) and [Why do kNN-LMs Work?](#knnwhy) were accepted to ICML'2023! 
