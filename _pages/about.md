@@ -65,6 +65,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_September 2023_** - [Unlimiformer](#unlimiformer) and [Self-Refine](#selfrefine) were accepted to NeurIPS'2023!
 * **_August 2023_** - I left CMU and started as a research scientist at Google DeepMind [[Tweet]](https://twitter.com/urialon1/status/1694764062171709911?s=20){:target="_blank"}
 * **_May 2023_** - A new paper: [On the Expressivity Role of LayerNorm in Transformers’ Attention](#layernorm) was accepted to Findings of the ACL'2023!
 * **_May 2023_** - a new preprint: [Unlimiformer: Long-Range Transformers with Unlimited Length Input](#unlimiformer)
@@ -100,8 +101,19 @@ I am happily married to Lee and father of Gur 🙂
     [[Code]](https://github.com/web-arena-x/webarena){:target="_blank"} [[Website]](https://webarena.dev){:target="_blank"}
     [[Tweet]](https://twitter.com/shuyanzhxyc/status/1683917253597855744?s=20){:target="_blank"} 
     [[BibTex]](https://pastebin.com/raw/Uf0pup43){:target="_blank"}
+
+
+* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
+    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
+    * Appeared in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
+    * Press: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
+
+
+## Accepted Papers
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**{:id="unlimiformer"}
     * Amanda Bertsch, **Uri Alon**, Graham Neubig, Matthew R. Gormley
+    * To appear in **_NeurIPS'2023_**
     * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2023/05/07/cmu-researchers-introduce-unlimiformer-an-ai-method-for-augmenting-pretrained-encoder-decoders-with-an-external-datastore-to-allow-for-unlimited-length-input/){:target="_blank"} [[Medium]](https://medium.com/techciting/techciting-issue-2-may-7-2023-c3b02e606068){:target="_blank"} [[Towards AI]](https://pub.towardsai.net/unlimiformer-long-range-transformers-with-unlimited-length-input-3725f69b0d03){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2305.01625.pdf){:target="_blank"} 
     [[Code]](https://github.com/abertsch72/unlimiformer){:target="_blank"}
@@ -109,34 +121,25 @@ I am happily married to Lee and father of Gur 🙂
     [[BibTex]](https://pastebin.com/raw/tHgJ6AhF){:target="_blank"}
 * **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
     * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
+    * To appear in **_NeurIPS'2023_**    
     * Online demo: [https://self-refine-webgen.herokuapp.com/](https://self-refine-webgen.herokuapp.com/){:target="_blank"}
     * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/){:target="_blank"} [[Medium]](https://kargarisaac.medium.com/self-refine-a-new-milestone-in-the-ai-era-ac51568873da?source=topics_v2---------5-84--------------------fda4d9ef_ad4f_488d_9028_248a261e661a-------17){:target="_blank"} [[EmergentMind]](https://www.emergentmind.com/posts/self-refine-iterative-refinement-with-self-feedback){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2303.17651.pdf){:target="_blank"} 
     [[Code]](https://github.com/madaan/self-refine){:target="_blank"} [[Website]](https://selfrefine.info){:target="_blank"} [[Tweet]](https://twitter.com/johnjnay/status/1642704826776559617?s=20){:target="_blank"} [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
-
-
-* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
-    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
-    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
-    * Press: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
-
-
-## Accepted Papers
 * **On the Expressivity Role of LayerNorm in Transformers’ Attention**{:id="layernorm"}
     * Shaked Brody, **Uri Alon**, Eran Yahav
-    * To appear in **_Findings of ACL'2023_**
+    * Appeared in **_Findings of ACL'2023_**
     * Press: [[Medium]](https://lessw.medium.com/what-layernorm-really-does-for-attention-in-transformers-4901ea6d890e#:~:text=A%20%E2%80%94%20Projection%3A%20LayerNorm%20helps%20the,be%20orthogonal%20to%20the%20queries){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2305.02582){:target="_blank"} [[Code]](https://t.co/cfIEOT8fh3){:target="_blank"} [[Tweet]](https://twitter.com/shakedbr/status/1654449044851159040?s=20){:target="_blank"} 
     [[BibTex]](https://pastebin.com/raw/xFYce3Vt){:target="_blank"}
 * **Why do Nearest Neighbor Language Models Work?**{:id="knnwhy"}
     * Frank F. Xu, **Uri Alon**, Graham Neubig  
-    * To appear in **_ICML'2023_**
+    * Appeared in **_ICML'2023_**
     * [[PDF]](https://arxiv.org/pdf/2301.02828.pdf){:target="_blank"} [[Code]](https://github.com/frankxu2004/knnlm-why){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1612817186678083585?s=20&t=srvqJDMrLcB1_Zzdm0-5pA){:target="_blank"} [[BibTex]](https://pastebin.com/raw/UeDvMh6X){:target="_blank"}
 
 * **PAL: Program-aided Language Models**{:id="pal"}
     * Luyu Gao, Aman Madaan, Shuyan Zhou, **Uri Alon**, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig
-    * To appear in **_ICML'2023_**
+    * Appeared in **_ICML'2023_**
     * Press: [[AI Trends 2023 Podcast]](https://twimlai.com/podcast/twimlai/ai-trends-2023-natural-language-proc-chatgpt-gpt-4-and-cutting-edge-research/){:target="_blank"} [[Medium]](https://cobusgreyling.medium.com/pal-program-aided-large-language-models-30db3e59f796){:target="_blank"} 
     * Online demo: [https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2211.10435.pdf){:target="_blank"} 
@@ -226,7 +229,7 @@ I am happily married to Lee and father of Gur 🙂
 
 * **Learning Performance-Improving Code Edits**{:id="pie"}
     * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
-    * To appear in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop    
+    * Appeared in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop    
     * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
     
 * **A Systematic Evaluation of Large Language Models of Code**{:id="polycoder"} (PolyCoder)
