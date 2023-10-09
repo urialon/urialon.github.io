@@ -65,6 +65,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur 🙂
 
 ### News
+* **_October 2023_** - [CodeBERTScore](#cbs) was accepted to EMNLP'2023!
 * **_September 2023_** - [Unlimiformer](#unlimiformer) and [Self-Refine](#selfrefine) were accepted to NeurIPS'2023!
 * **_August 2023_** - I left CMU and started as a research scientist at Google DeepMind [[Tweet]](https://twitter.com/urialon1/status/1694764062171709911?s=20){:target="_blank"}
 * **_May 2023_** - A new paper: [On the Expressivity Role of LayerNorm in Transformers’ Attention](#layernorm) was accepted to Findings of the ACL'2023!
@@ -103,12 +104,6 @@ I am happily married to Lee and father of Gur 🙂
     [[BibTex]](https://pastebin.com/raw/Uf0pup43){:target="_blank"}
 
 
-* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
-    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
-    * Appeared in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop (<span style="color:red">**Spotlight**</span>) 
-    * Press: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
-
 
 ## Accepted Papers
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**{:id="unlimiformer"}
@@ -126,6 +121,12 @@ I am happily married to Lee and father of Gur 🙂
     * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/){:target="_blank"} [[Medium]](https://kargarisaac.medium.com/self-refine-a-new-milestone-in-the-ai-era-ac51568873da?source=topics_v2---------5-84--------------------fda4d9ef_ad4f_488d_9028_248a261e661a-------17){:target="_blank"} [[EmergentMind]](https://www.emergentmind.com/posts/self-refine-iterative-refinement-with-self-feedback){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2303.17651.pdf){:target="_blank"} 
     [[Code]](https://github.com/madaan/self-refine){:target="_blank"} [[Website]](https://selfrefine.info){:target="_blank"} [[Tweet]](https://twitter.com/johnjnay/status/1642704826776559617?s=20){:target="_blank"} [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
+* **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
+    * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
+    * To appear in **_EMNLP'2023_**
+    * Also appeared in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} workshop (<span style="color:red">**Spotlight**</span>) 
+    * Press: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
 * **On the Expressivity Role of LayerNorm in Transformers’ Attention**{:id="layernorm"}
     * Shaked Brody, **Uri Alon**, Eran Yahav
     * Appeared in **_Findings of ACL'2023_**
