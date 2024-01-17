@@ -95,7 +95,6 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
-%## Preprints
 
 ## Accepted Papers
 * **Learning Performance-Improving Code Edits**{:id="pie"}
@@ -236,14 +235,6 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
     * Appeared in **_PLDI’2018_**
     * [[PDF]](https://arxiv.org/pdf/1803.09544.pdf){:target="_blank"} [[Slides]](files/pldi18_slides.pdf){:target="_blank"} [[Video]](https://urialon.cswp.cs.technion.ac.il/wp-content/uploads/sites/83/2021/w03/bottleneck_poster.pdf){:target="_blank"} [[Blog]](https://blog.sigplan.org/2019/08/22/from-programs-to-deep-models-part-1/){:target="_blank"} [[Code]](https://github.com/tech-srl/PigeonJS){:target="_blank"} [[BibTex]](https://pastebin.com/raw/5tZQJ0ch){:target="_blank"}
 
-
-
-%## Workshops
-    
-
-%* **Single-Node Attack for Fooling Graph Neural Networks**
-%    * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
-%    * DLG-KDD'2021 [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"} [[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
       
 
 ## PhD Thesis
@@ -252,11 +243,6 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
      * Awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
      * [[PDF]](files/thesis.pdf){:target="_blank"}
 
-%## Technical Reports
-
-%* **Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling**
-%    * Jonathan Shen, ..., **Uri Alon**, ...
-%    * [[PDF]](https://arxiv.org/pdf/1902.08295.pdf){:target="_blank"}
 
 
 ---
