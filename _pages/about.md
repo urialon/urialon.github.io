@@ -62,9 +62,10 @@ Between June-September of 2018, I interned at Google New-York, researching neura
 
 In addition, I hold a B.A. in Humanities.
 
-I am happily married to Lee and father of Gur 🙂
+I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
 
 ### News
+* **_January 2024_** - [WebArena](#webarena) and [Learning Performance-Improving Code Edits](#pie) (**Spotlight**!) were accepted to ICLR'2024! 
 * **_October 2023_** - [CodeBERTScore](#cbs) was accepted to EMNLP'2023!
 * **_September 2023_** - [Unlimiformer](#unlimiformer) and [Self-Refine](#selfrefine) were accepted to NeurIPS'2023!
 * **_August 2023_** - I left CMU and started as a research scientist at Google DeepMind [[Tweet]](https://twitter.com/urialon1/status/1694764062171709911?s=20){:target="_blank"}
@@ -94,21 +95,24 @@ I am happily married to Lee and father of Gur 🙂
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
-## Preprints
+%## Preprints
+
+## Accepted Papers
+* **Learning Performance-Improving Code Edits**{:id="pie"}
+    * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
+    * To appear in **_ICLR'2024_**
+    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
 * **WebArena: A Realistic Web Environment for Building Autonomous Agents**{:id="webarena"}
     * Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, **Uri Alon**, Graham Neubig
+    * To appear in **_ICLR'2024_**
     * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/07/27/cmu-researchers-introduce-webarena-a-realistic-and-reproducible-web-environment-with-4-real-world-web-apps-for-benchmarking-useful-agents/){:target="_blank"} [[TS2]](https://ts2.space/en/training-autonomous-agents-new-research-introduces-webarena/){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2307.13854.pdf){:target="_blank"} 
     [[Code]](https://github.com/web-arena-x/webarena){:target="_blank"} [[Website]](https://webarena.dev){:target="_blank"}
     [[Tweet]](https://twitter.com/shuyanzhxyc/status/1683917253597855744?s=20){:target="_blank"} 
     [[BibTex]](https://pastebin.com/raw/Uf0pup43){:target="_blank"}
-
-
-
-## Accepted Papers
 * **Unlimiformer: Long-Range Transformers with Unlimited Length Input**{:id="unlimiformer"}
     * Amanda Bertsch, **Uri Alon**, Graham Neubig, Matthew R. Gormley
-    * To appear in **_NeurIPS'2023_**
+    * Appeared in **_NeurIPS'2023_**
     * Press: [[Synched]](https://syncedreview.com/2023/05/04/cmus-unlimiformer-augments-transformers-to-enable-unbounded-input-lengths/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2023/05/07/cmu-researchers-introduce-unlimiformer-an-ai-method-for-augmenting-pretrained-encoder-decoders-with-an-external-datastore-to-allow-for-unlimited-length-input/){:target="_blank"} [[Medium]](https://medium.com/techciting/techciting-issue-2-may-7-2023-c3b02e606068){:target="_blank"} [[Towards AI]](https://pub.towardsai.net/unlimiformer-long-range-transformers-with-unlimited-length-input-3725f69b0d03){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2305.01625.pdf){:target="_blank"} 
     [[Code]](https://github.com/abertsch72/unlimiformer){:target="_blank"}
@@ -116,14 +120,14 @@ I am happily married to Lee and father of Gur 🙂
     [[BibTex]](https://pastebin.com/raw/tHgJ6AhF){:target="_blank"}
 * **Self-Refine: Iterative Refinement with Self-Feedback**{:id="selfrefine"}
     * Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, **Uri Alon**, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Sean Welleck, Bodhisattwa Prasad Majumder, Shashank Gupta, Amir Yazdanbakhsh, Peter Clark
-    * To appear in **_NeurIPS'2023_**    
+    * Appeared in **_NeurIPS'2023_**    
     * Online demo: [https://self-refine-webgen.herokuapp.com/](https://self-refine-webgen.herokuapp.com/){:target="_blank"}
     * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/){:target="_blank"} [[Medium]](https://kargarisaac.medium.com/self-refine-a-new-milestone-in-the-ai-era-ac51568873da?source=topics_v2---------5-84--------------------fda4d9ef_ad4f_488d_9028_248a261e661a-------17){:target="_blank"} [[EmergentMind]](https://www.emergentmind.com/posts/self-refine-iterative-refinement-with-self-feedback){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2303.17651.pdf){:target="_blank"} 
     [[Code]](https://github.com/madaan/self-refine){:target="_blank"} [[Website]](https://selfrefine.info){:target="_blank"} [[Tweet]](https://twitter.com/johnjnay/status/1642704826776559617?s=20){:target="_blank"} [[BibTex]](https://pastebin.com/raw/stKd6rEB){:target="_blank"}
 * **CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**{:id="cbs"}
     * Shuyan Zhou, **Uri Alon**, Sumit Agarwal, Graham Neubig  
-    * To appear in **_EMNLP'2023_**
+    * Appeared in **_EMNLP'2023_**
     * Also appeared in the [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"} workshop (<span style="color:red">**Spotlight**</span>) 
     * Press: [[Non-Brand Data]](https://cornellius.substack.com/p/automatic-evaluation-metric-for-code){:target="_blank"}
     * [[PDF]](https://arxiv.org/pdf/2302.05527.pdf){:target="_blank"} [[Code]](https://github.com/neulab/code-bert-score){:target="_blank"} [[Huggingface Models]](https://github.com/neulab/code-bert-score#backend-model) [[BibTex]](https://pastebin.com/raw/ugjgw1XM){:target="_blank"}
@@ -165,6 +169,14 @@ I am happily married to Lee and father of Gur 🙂
     * [[PDF]](https://arxiv.org/pdf/2201.12431){:target="_blank"} [[Poster]](files/Retomaton_poster_ICML_2022.pdf){:target="_blank"} [[5-min Video]](https://slideslive.com/38983799/neurosymbolic-language-modeling-with-retrieval-automaton){:target="_blank"} [[1-hour Video]](https://www.youtube.com/watch?v=-Au42BuWTEc){:target="_blank"} [[Slides]](files/retomaton_talk.pdf){:target="_blank"}  [[Tweet]](https://twitter.com/urialon1/status/1532371214869708801?s=20&t=vbFfTseYXTRMbKtftRLjPA){:target="_blank"}  [[BibTex]](https://pastebin.com/raw/9J5QUDPX){:target="_blank"}
     * [[Code - `fairseq` implementation]](https://github.com/neulab/retomaton){:target="_blank"} 
     * [[Code - HuggingFace 🤗 `transformers` implementation]](https://github.com/neulab/knn-transformers){:target="_blank"} [[Trained models]](https://github.com/neulab/knn-transformers#available-models){:target="_blank"} 
+
+* **A Systematic Evaluation of Large Language Models of Code**{:id="polycoder"} (PolyCoder)
+    * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
+    * Appeared in [MAPS'2022](https://pldi22.sigplan.org/details/maps-2022-papers/1/A-Systematic-Evaluation-of-Large-Language-Models-of-Code){:target="_blank"}
+    * Appeared in [Deep Learning for Code](https://openreview.net/forum?id=SLcEnoObJZq){:target="_blank"}, ICLR'2022 workshop
+    * Press: [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2202.13169){:target="_blank"} [[Code]](https://github.com/VHellendoorn/Code-LMs){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ZeNXqKUx){:target="_blank"}
+    * Huggingface🤗 model: [NinedayWang/PolyCoder-2.7B](https://huggingface.co/NinedayWang/PolyCoder-2.7B){:target="_blank"}
 
 * **How Attentive are Graph Attention Networks?**{:id="attentive"}
     * Shaked Brody, **Uri Alon**, Eran Yahav
@@ -226,24 +238,12 @@ I am happily married to Lee and father of Gur 🙂
 
 
 
-## Workshops
-
-* **Learning Performance-Improving Code Edits**{:id="pie"}
-    * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
-    * Appeared in [Deep Learning for Code](https://dl4c.github.io/){:target="_blank"}, ICLR'2023 workshop    
-    * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
+%## Workshops
     
-* **A Systematic Evaluation of Large Language Models of Code**{:id="polycoder"} (PolyCoder)
-    * Frank F. Xu, **Uri Alon**, Graham Neubig, Vincent J. Hellendoorn
-    * Appeared in [MAPS'2022](https://pldi22.sigplan.org/details/maps-2022-papers/1/A-Systematic-Evaluation-of-Large-Language-Models-of-Code){:target="_blank"}
-    * Appeared in [Deep Learning for Code](https://openreview.net/forum?id=SLcEnoObJZq){:target="_blank"}, ICLR'2022 workshop
-    * Press: [[Forbes]](https://www.forbes.com/sites/janakirammsv/2022/03/14/5-ai-tools-that-can-generate-code-to-help-programmers){:target="_blank"} [[ZDNet]](https://www.zdnet.com/article/programming-languages-this-open-source-ai-code-generator-is-very-good-at-writing-in-c/){:target="_blank"} [[VentureBeat]](https://venturebeat.com/2022/03/04/researchers-open-source-code-generating-ai-they-claim-can-beat-openais-codex/){:target="_blank"} [[MarkTechPost]](https://www.marktechpost.com/2022/03/08/cmu-researchers-open-source-polycoder-a-machine-learning-based-code-generator-with-2-7b-parameters/){:target="_blank"}
-    * [[PDF]](https://arxiv.org/pdf/2202.13169){:target="_blank"} [[Code]](https://github.com/VHellendoorn/Code-LMs){:target="_blank"} [[BibTex]](https://pastebin.com/raw/ZeNXqKUx){:target="_blank"}
-    * Huggingface🤗 model: [NinedayWang/PolyCoder-2.7B](https://huggingface.co/NinedayWang/PolyCoder-2.7B){:target="_blank"}
 
-* **Single-Node Attack for Fooling Graph Neural Networks**
-    * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
-    * DLG-KDD'2021 [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"} [[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
+%* **Single-Node Attack for Fooling Graph Neural Networks**
+%    * Ben Finkelshtein, Chaim Baskin, Evgenii Zheltonovzhskii, **Uri Alon**
+%    * DLG-KDD'2021 [[PDF]](https://arxiv.org/pdf/2011.03574){:target="_blank"} [[Code]](https://github.com/benfinkelshtein/SINGLE){:target="_blank"} [[BibTex]](https://pastebin.pl/view/raw/3f25046a){:target="_blank"}
       
 
 ## PhD Thesis
@@ -252,11 +252,11 @@ I am happily married to Lee and father of Gur 🙂
      * Awarded the [Reynolds Doctoral Dissertation Award](https://www.sigplan.org/Awards/Dissertation/){:target="_blank"} (formerly "SIGPLAN Outstanding Doctoral Dissertation Award")
      * [[PDF]](files/thesis.pdf){:target="_blank"}
 
-## Technical Reports
+%## Technical Reports
 
-* **Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling**
-    * Jonathan Shen, ..., **Uri Alon**, ...
-    * [[PDF]](https://arxiv.org/pdf/1902.08295.pdf){:target="_blank"}
+%* **Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling**
+%    * Jonathan Shen, ..., **Uri Alon**, ...
+%    * [[PDF]](https://arxiv.org/pdf/1902.08295.pdf){:target="_blank"}
 
 
 ---
