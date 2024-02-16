@@ -95,6 +95,18 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
 ---
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
+## Preprints
+* **In-Context Principle Learning from Mistakes**{:id="leap"}
+    * Tianjun Zhang, Aman Madaan, Luyu Gao, Steven Zheng, Swaroop Mishra, Yiming Yang, Niket Tandon, **Uri Alon**
+    * [[PDF]](https://arxiv.org/pdf/2402.05403.pdf){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1757038257550807436){:target="_blank"} [[BibTex]](https://pastebin.com/raw/KJFDAnWz)
+
+* **Transformers Can Achieve Length Generalization But Not Robustly**{:id="lengthgen"}
+    * Yongchao Zhou, **Uri Alon**, Xinyun Chen, Xuezhi Wang, Rishabh Agarwal, Denny Zhou
+    * [[PDF]](https://arxiv.org/pdf/2402.09371.pdf){:target="_blank"} [[Tweet]](https://twitter.com/Yongchao_Zhou_/status/1758554054500782271){:target="_blank"}
+
+* **Universal self-consistency for Large Language Model Generation**{:id="usc"}
+    * Xinyun Chen, Renat Aksitov, **Uri Alon**, Jie Ren, Kefan Xiao, Pengcheng Yin, Sushant Prakash, Charles Sutton, Xuezhi Wang, Denny Zhou
+    * [[PDF]](https://arxiv.org/pdf/2311.17311){:target="_blank"}
 
 ## Accepted Papers
 * **Learning Performance-Improving Code Edits**{:id="pie"}
