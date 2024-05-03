@@ -65,6 +65,7 @@ In addition, I hold a B.A. in Humanities.
 I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
 
 ### News
+* **_May 2024_** - [In-Context Principle Learning from Mistakes](#leap) was accepted to ICML'2024! 
 * **_January 2024_** - [WebArena](#webarena) and [Learning Performance-Improving Code Edits](#pie) (**Spotlight**!) were accepted to ICLR'2024! 
 * **_October 2023_** - [CodeBERTScore](#cbs) was accepted to EMNLP'2023!
 * **_September 2023_** - [Unlimiformer](#unlimiformer) and [Self-Refine](#selfrefine) were accepted to NeurIPS'2023!
@@ -96,9 +97,6 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
 # Publications <a href="https://scholar.google.com/citations?user=QBn7vq8AAAAJ&hl=en&oi=ao" target="_blank"><i class="fas fa-fw fa-graduation-cap"></i></a><a name="publications"></a>
 
 ## Preprints
-* **In-Context Principle Learning from Mistakes**{:id="leap"}
-    * Tianjun Zhang, Aman Madaan, Luyu Gao, Steven Zheng, Swaroop Mishra, Yiming Yang, Niket Tandon, **Uri Alon**
-    * [[PDF]](https://arxiv.org/pdf/2402.05403.pdf){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1757038257550807436){:target="_blank"} [[BibTex]](https://pastebin.com/raw/KJFDAnWz)
 
 * **Transformers Can Achieve Length Generalization But Not Robustly**{:id="lengthgen"}
     * Yongchao Zhou, **Uri Alon**, Xinyun Chen, Xuezhi Wang, Rishabh Agarwal, Denny Zhou
@@ -109,6 +107,10 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
     * [[PDF]](https://arxiv.org/pdf/2311.17311){:target="_blank"}
 
 ## Accepted Papers
+* **In-Context Principle Learning from Mistakes**{:id="leap"}
+    * Tianjun Zhang, Aman Madaan, Luyu Gao, Steven Zheng, Swaroop Mishra, Yiming Yang, Niket Tandon, **Uri Alon**
+    * To appear in **_ICML'2024_**
+    * [[PDF]](https://arxiv.org/pdf/2402.05403.pdf){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1757038257550807436){:target="_blank"} [[BibTex]](https://pastebin.com/raw/KJFDAnWz)
 * **Learning Performance-Improving Code Edits**{:id="pie"}
     * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
     * To appear in **_ICLR'2024_**
