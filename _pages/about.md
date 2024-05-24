@@ -98,9 +98,9 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
 
 ## Preprints
 
-* **Transformers Can Achieve Length Generalization But Not Robustly**{:id="lengthgen"}
+<!--* **Transformers Can Achieve Length Generalization But Not Robustly**{:id="lengthgen"}
     * Yongchao Zhou, **Uri Alon**, Xinyun Chen, Xuezhi Wang, Rishabh Agarwal, Denny Zhou
-    * [[PDF]](https://arxiv.org/pdf/2402.09371.pdf){:target="_blank"} [[Tweet]](https://twitter.com/Yongchao_Zhou_/status/1758554054500782271){:target="_blank"}
+    * [[PDF]](https://arxiv.org/pdf/2402.09371.pdf){:target="_blank"} [[Tweet]](https://twitter.com/Yongchao_Zhou_/status/1758554054500782271){:target="_blank"} -->
 
 * **Universal self-consistency for Large Language Model Generation**{:id="usc"}
     * Xinyun Chen, Renat Aksitov, **Uri Alon**, Jie Ren, Kefan Xiao, Pengcheng Yin, Sushant Prakash, Charles Sutton, Xuezhi Wang, Denny Zhou
@@ -113,11 +113,11 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
     * [[PDF]](https://arxiv.org/pdf/2402.05403.pdf){:target="_blank"} [[Tweet]](https://twitter.com/urialon1/status/1757038257550807436){:target="_blank"} [[BibTex]](https://pastebin.com/raw/KJFDAnWz)
 * **Learning Performance-Improving Code Edits**{:id="pie"}
     * Aman Madaan, Alexander Shypula, **Uri Alon**, Milad Hashemi, Parthasarathy Ranganathan, Yiming Yang, Graham Neubig, Amir Yazdanbakhsh
-    * To appear in **_ICLR'2024_**
+    * Appeared in **_ICLR'2024_**
     * [[PDF]](https://arxiv.org/pdf/2302.07867.pdf){:target="_blank"} [[Code]](https://github.com/madaan/pie-perf){:target="_blank"} [[Website]](https://pie4perf.com/){:target="_blank"} [[BibTex]](https://pastebin.com/raw/WasRirHS){:target="_blank"}
 * **WebArena: A Realistic Web Environment for Building Autonomous Agents**{:id="webarena"}
     * Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Yonatan Bisk, Daniel Fried, **Uri Alon**, Graham Neubig
-    * To appear in **_ICLR'2024_**
+    * Appeared in **_ICLR'2024_**
     * Press: [[MarkTechPost]](https://www.marktechpost.com/2023/07/27/cmu-researchers-introduce-webarena-a-realistic-and-reproducible-web-environment-with-4-real-world-web-apps-for-benchmarking-useful-agents/){:target="_blank"} [[TS2]](https://ts2.space/en/training-autonomous-agents-new-research-introduces-webarena/){:target="_blank"} 
     * [[PDF]](https://arxiv.org/pdf/2307.13854.pdf){:target="_blank"} 
     [[Code]](https://github.com/web-arena-x/webarena){:target="_blank"} [[Website]](https://webarena.dev){:target="_blank"}
@@ -290,7 +290,7 @@ I am happily married to Lee and father of Gur (_November 2023:_) and Gali 🙂
 
 ---
 # Service
-* Reviewer: ICLR'2024, NeurIPS '2023 (**Top Reviewers**), ICLR'2023, NeurIPS '2022 (**Outstanding Reviewer**), TMLR, ICML'2022 (**Outstanding Reviewer - top 10%**), ICLR'2022 (**Highlighted Reviewer**), AIPLANS NeurIPS 2021 workshop, ICML’2021 (**top 10% Best Reviewers**), ICLR’2021, NeurIPS’2020, ICLR’2020
+* Reviewer: ICLR'2024 (**Outstanding Reviewer**), NeurIPS '2023 (**Top Reviewers**), ICLR'2023, NeurIPS '2022 (**Outstanding Reviewer**), TMLR, ICML'2022 (**Outstanding Reviewer**), ICLR'2022 (**Highlighted Reviewer**), AIPLANS NeurIPS 2021 workshop, ICML’2021 (**top 10% Best Reviewers**), ICLR’2021, NeurIPS’2020, ICLR’2020
 * Program Committee: MAPS'2022, Deep Learning for Code ICLR'22 workshop, PLDI’2021, NeurIPS’2020 CAP workshop, AIDM’20, AIDM’19
 * Area Chair: Learning on Graphs '2022
 
